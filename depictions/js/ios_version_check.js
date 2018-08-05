@@ -46,7 +46,7 @@ Twitter - @TimonOlsthoorn
 
 // changed const to var for IE9/10 compatibity.
 var VERSION_CHECK_SUPPORTED = "<strong>الاداة متوافقة مع إصدارك, ثبت يا وحش &#x1f60e;<\strong>";
-var VERSION_CHECK_NEEDS_UPGRADE = "<strong>ازم يكون اصدارك على الاقل %s &#x1f616;<strong>";
+var VERSION_CHECK_NEEDS_UPGRADE = "<strong>لازم يكون اصدارك على الاقل %s &#x1f616;<strong>";
 var VERSION_CHECK_UNCONFIRMED = "<strong>للحين محد جربها على %s  &#x1f612;<strong>";
 var VERSION_CHECK_UNSUPPORTED = "<strong>مع الاسف اصدارك ما يدعم الاداة &#x1f625;<strong>";
 
