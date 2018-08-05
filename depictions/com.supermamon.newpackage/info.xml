@@ -13,11 +13,11 @@
 	</dependencies>
 	<shortDescription>إعادة تجديد تطبيق الجليبريك بعد انتهاء الـ 7 ايام</shortDescription>
 	<descriptionlist>
-		<description>عند نقل ملف بصيغة IPA من الكمبيوتر ستكون المده للحسابات العادية 7 ايام </description>
+		<description>عند نقل ملف بصيغة IPA من الكمبيوتر ستكون المده للحسابات العادية 7 ايام</description>
 		<description>لذلك تحتاج هذه الاداه للاستغناء عن التنقل مابين جهازك والكمبيوتر</description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		تستطيع هنا كتابة تعليق طويل نوعا ما واضافة سطر الى الاسفل<br/> 
+		حتى يتسنى لك شرح اي اداة على راحتك وبدون قيود للكتابة
 		]]>
 		</description>
 	</descriptionlist>
