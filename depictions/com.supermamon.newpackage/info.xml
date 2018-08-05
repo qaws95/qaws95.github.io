@@ -1,6 +1,6 @@
 <package>
 	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
+	<name>اداة Ext3nder</name>
 	<version>2.0.0-1</version>
 	<compatibility>
 		<firmware>
@@ -11,30 +11,30 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>إعادة تجديد تطبيق الجليبريك بعد انتهاء الـ 7 ايام</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>عند نقل ملف بصيغة IPA من الكمبيوتر ستكون المده للحسابات العادية 7 ايام</description>
+		<description>لذلك تحتاج هذه الاداه للاستغناء عن التنقل مابين جهازك والكمبيوتر</description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		تستطيع هنا كتابة تعليق طويل نوعا ما واضافة سطر الى الاسفل<br/> 
+		حتى يتسنى لك شرح اي اداة على راحتك وبدون قيود للكتابة
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<description>صورة تجريبيه رقم 1</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<description>صورة تجريبيه رقم 2</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>اصلاح بعض الاخطاء</change>
+		<change>تسريع عمل الاداة</change>
+		<change>اصلاح خلل عدم التجديد لمن هم على iOS10 </change>
 	</changelog>
 	<links>
 		<link>
