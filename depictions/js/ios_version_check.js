@@ -45,7 +45,7 @@ Twitter - @TimonOlsthoorn
 // Adapted from https://github.com/tmnlsthrn/Lotus/blob/master/js/iosver.js
 
 // changed const to var for IE9/10 compatibity.
-var VERSION_CHECK_SUPPORTED = "الاداة متوافقة مع إصدارك, ثبت يا وحش &#x1f60e;";
+var VERSION_CHECK_SUPPORTED = "<strong>الاداة متوافقة مع إصدارك, ثبت يا وحش &#x1f60e;<\strong>";
 var VERSION_CHECK_NEEDS_UPGRADE = "ازم يكون اصدارك على الاقل %s &#x1f616;";
 var VERSION_CHECK_UNCONFIRMED = "للحين محد جربها على %s  &#x1f612;";
 var VERSION_CHECK_UNSUPPORTED = "مع الاسف اصدارك ما يدعم الاداة &#x1f625;";
