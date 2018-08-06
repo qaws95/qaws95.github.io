@@ -23,11 +23,11 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>صورة تجريبيه رقم 1</description>
+			
 			<image>cydia.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>صورة تجريبيه رقم 2</description>
+		
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
@@ -36,11 +36,5 @@
 		<change>تسريع عمل الاداة</change>
 		<change>اصلاح خلل عدم التجديد لمن هم على iOS10 </change>
 	</changelog>
-	<links>
-		<link>
-			<name>قروب الجليبريك</name>
-			<url>https://t.me/joinchat/AZOihkNhghT5xv4sPcmLJQ</url>
-			<iconclass>fa fa-telegram</iconclass>
-		</link>
-	</links>
+
 </package>
