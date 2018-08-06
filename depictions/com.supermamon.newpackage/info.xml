@@ -9,7 +9,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package><center>mobilesubstrate</center></package>
+		<package><b>mobilesubstrate</b></package>
 	</dependencies>
 	<shortDescription>إعادة تجديد تطبيق الجليبريك بعد انتهاء الـ 7 ايام</shortDescription>
 	<descriptionlist>
