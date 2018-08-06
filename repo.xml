@@ -5,12 +5,10 @@
 			<url>https://twitter.com/mohdalyahri</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
-	</footerlinks>
-	<footerlinks>
-	    <link>
+		<link>
 			<name>قروب الجليبريك</name>
 			<url>tg://join?invite=FWP94ENhghQcjXUWuT_pqQ</url>
 			<iconclass>fa fa-telegram</iconclass>
 		</link>
-	</footerlinks>	
+	</footerlinks>
 </repo>
