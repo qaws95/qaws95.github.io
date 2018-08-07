@@ -30,7 +30,7 @@ Package: com.shade.nougat
 Version: 0.51
 Section: Tweaks
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Depends: firmware (>9.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
 Architecture: iphoneos-arm
 Filename: ./debs/com.shade.nougat_0.5.1_iphoneos-arm.deb
 Size: 615952
@@ -44,7 +44,7 @@ Package: com.shade.nougat
 Version: 0.5
 Section: Tweaks
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Depends: firmware (>9.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
 Architecture: iphoneos-arm
 Filename: ./debs/com.shade.nougat_0.5_iphoneos-arm.deb
 Size: 615952
@@ -58,7 +58,7 @@ Package: com.shade.nougat
 Version: 0.1-297+debug
 Section: Tweaks
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Depends: firmware (>9.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
 Architecture: iphoneos-arm
 Filename: ./debs/com.shade.nougat_0.1-297+debug_iphoneos-arm.deb
 Size: 615952
