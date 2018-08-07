@@ -30,7 +30,7 @@ Package: com.shade.nougat
 Version: 0.51
 Section: Tweaks
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch)
+Depends: firmware (>7.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
 Architecture: iphoneos-arm
 Filename: ./debs/com.shade.nougat_0.5.1_iphoneos-arm.deb
 Size: 615952
@@ -40,3 +40,30 @@ Name: Nougat
 Author: Shade Zepheri <ziroalpha@gmail.com>
 Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
 
+Package: com.shade.nougat
+Version: 0.5
+Section: Tweaks
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Architecture: iphoneos-arm
+Filename: ./debs/com.shade.nougat_0.5_iphoneos-arm.deb
+Size: 615952
+MD5sum: f43feb8890b6589cd1c7ed296b65a8fd
+Description: تغيير شكل مركز التحكم وجعله مشابة الى نظام الاندرويد
+Name: Nougat
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
+
+Package: com.shade.nougat
+Version: 0.1-297+debug
+Section: Tweaks
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Architecture: iphoneos-arm
+Filename: ./debs/com.shade.nougat_0.1-297+debug_iphoneos-arm.deb
+Size: 615952
+MD5sum: 4d6d55a0d7c0834ad980958a4731e041
+Description: تغيير شكل مركز التحكم وجعله مشابة الى نظام الاندرويد
+Name: Nougat
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
