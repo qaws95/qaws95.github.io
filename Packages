@@ -1,69 +1,109 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.shade.nougat
+Name: Nougat
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://qaws95.github.io/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Filename: /debs/com.shade.nougat_0.1-297+debug_iphoneos-arm.deb
+Size: 67988
+MD5sum: 4d6d55a0d7c0834ad980958a4731e041
+SHA1: 056d8ee53f818e573531b3f4f610ed3c6f068ce5
+SHA256: ce84d0697740a0b7e876e7c5325d09caeb40d676553e6bec42138bc1704241ab
+Description: تغيير شكل مركز التحكم وجعله مشابة الى نظام الاندرويد
+Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
+Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Author: Shade Zepheri <ziroalpha@gmail.com>
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://qaws95.github.io/depictions/?p=com.supermamon.oldpackage
+Version: 0.1-297+debug
+Installed-Size: 556
 
 Package: com.shade.nougat
-Version: 0.5.1
-Section: Tweaks
-Maintainer: Shade Zepheri <ziroalpha@gmail.com>
-Depends: firmware (>9.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Name: Nougat
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
 Architecture: iphoneos-arm
-Filename: ./debs/com.shade.nougat_0.5.1_iphoneos-arm.deb
+Filename: /debs/com.shade.nougat_0.5_iphoneos-arm.deb
+Size: 615596
+MD5sum: f43feb8890b6589cd1c7ed296b65a8fd
+SHA1: e4fbeaaef30664bfc5c419b233164852ebd1bd42
+SHA256: e047d2786392e9ecb73a1936e80f0d9578bdc9a50cc58fdf52f2b8d4ff8391ac
+Description: Android NC for iOS
+Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
+Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Section: Tweaks
+Version: 0.5
+Installed-Size: 1116
+
+Package: com.shade.nougat
+Name: Nougat
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Architecture: iphoneos-arm
+Filename: /debs/com.shade.nougat_0.5.1_iphoneos-arm.deb
 Size: 615952
 MD5sum: 070f63599f3e1c74f6b997a05fa51c9d
-Description: تغيير شكل مركز التحكم وجعله مشابة الى نظام الاندرويد
-Name: Nougat
-Author: Shade Zepheri <ziroalpha@gmail.com>
+SHA1: 65dd3c668d853a0ea637db64614a1917fefbcb57
+SHA256: 55dd82521af791367f00154a19a12ac802e260104d71aee18d819c44a61b24ee
+Description: Android NC for iOS
+Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Section: Tweaks
+Version: 0.5.1
+Installed-Size: 1116
 
 Package: com.shade.nougat
-Version: 0.5
-Section: Tweaks
-Maintainer: Shade Zepheri <ziroalpha@gmail.com>
-Depends: firmware (>9.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
-Architecture: iphoneos-arm
-Filename: ./debs/com.shade.nougat_0.5_iphoneos-arm.deb
-Size: 615952
-MD5sum: f43feb8890b6589cd1c7ed296b65a8fd
-Description: تغيير شكل مركز التحكم وجعله مشابة الى نظام الاندرويد
 Name: Nougat
-Author: Shade Zepheri <ziroalpha@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Architecture: iphoneos-arm
+Filename: /debs/com.shade.nougat_0.5.2_iphoneos-arm.deb
+Size: 616214
+MD5sum: c5376274c3c11b1d57a3c07387dfdb09
+SHA1: fd955d42f0f43ac11a8b5a6349ee5f0a904f9b0d
+SHA256: e68dcd0c771573f480c2ae798fad342c54d0b78795647994a07cca189fe9a005
+Description: تغيير شكل مركز التحكم وجعله مشابة الى نظام الاندرويد
+Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Section: Tweaks
+Version: 0.5.2
+Installed-Size: 1116
 
-Package: com.shade.nougat
-Version: 0.1-297+debug
-Section: Tweaks
-Maintainer: Shade Zepheri <ziroalpha@gmail.com>
-Depends: firmware (>9.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Depends: firmware (>= 4.0), apt7, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
 Architecture: iphoneos-arm
-Filename: ./debs/com.shade.nougat_0.1-297+debug_iphoneos-arm.deb
-Size: 615952
-MD5sum: 4d6d55a0d7c0834ad980958a4731e041
-Description: تغيير شكل مركز التحكم وجعله مشابة الى نظام الاندرويد
-Name: Nougat
-Author: Shade Zepheri <ziroalpha@gmail.com>
-Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
+Filename: /debs/iCleanerPro_7.7.0.deb
+Size: 4625528
+MD5sum: 717f23162f6c1e755b2eb9dfe3c848f5
+SHA1: aee6ce5f65f998b26250b4cf7e552e21516a5aff
+SHA256: 710c384841f80d37c39b38fdff21ca1c2f9279d5407486fa9545ca04ccd59bb1
+Description: تنظيف الجهاز من مخلفات النظام
+Icon: file:///Applications/iCleaner.app/Icon-Small@2x.png
+Depiction: https://qaws95.github.io/depictions/?p=com.exile90.icleanerpro
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Author: Ivano Bilenchi <support@ib-soft.net>
+Section: Utilities
+Version: 7.7.0
+
+Package: ws.hbang.newterm2
+Name: NewTerm 2 (iOS 7 – 11)
+Depends: firmware (>= 7.0), com.modmyi.libswift4 (>= 4.0.3-3), ws.hbang.common (>= 1.11.2), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Filename: /debs/ws.hbang.newterm2_2.0_iphoneos-arm.deb
+Size: 739528
+MD5sum: 07ecb5140e97da96e5ff72bdbdfc7949
+SHA1: d76fa1ca1897d957da6eb68399867ce964ec3591
+SHA256: 52830b7cace4229c802f864e660a7128e48fcb60cad7f19e351bf685ffe8f283
+Description: موجة اوامر
+Depiction: https://qaws95.github.io/depictions/?p=ws.hbang.newterm2
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Version: 2.0
+Installed-Size: 2192

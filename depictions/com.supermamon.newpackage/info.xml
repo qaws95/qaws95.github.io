@@ -1,37 +1,46 @@
 <package>
 	<id>com.supermamon.fullpackage</id>
-	<name>اداة Ext3nder</name>
+	<name>Full Package</name>
 	<version>2.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>10.0</miniOS>
+			<miniOS>7.0</miniOS>
 			<maxiOS>11.3.1</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription></shortDescription>
+	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
-		<description> إعادة تجديد تطبيق الجليبريك بعد انتهاء الـ 7 ايام
-		عند نقل ملف بصيغة IPA من الكمبيوتر ستكون المده للحسابات العادية 7 ايام
-		لذلك تحتاج هذه الاداه للاستغناء عن التنقل مابين جهازك والكمبيوتر
+		<description>This is an package will full depictions.</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			
+			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 		<screenshot>
-		
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>اصلاح بعض الاخطاء</change>
-		<change>تسريع عمل الاداة</change>
-		<change>اصلاح خلل عدم التجديد لمن هم على iOS10 </change>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
 	</changelog>
-
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 </package>

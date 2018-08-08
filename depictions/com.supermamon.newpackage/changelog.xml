@@ -1,13 +1,12 @@
 <changelog>
 	<changes>
 		<version>1.0.0-2</version>
-		<change>اصلاح بعض الاخطاء</change>
-		<change>سريع عمل الاداة</change>
-		<change>اصلاح خلل عدم التجديد لمن هم على iOS10</change>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
 	</changes>
 	<changes>
 		<version>1.0.0-1</version>
-		<change>الاصدار الاولي للاداة</change>
+		<change>Initial Release</change>
 	</changes>
 </changelog>
-
