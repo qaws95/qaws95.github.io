@@ -12,7 +12,7 @@ Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
 Author: Shade Zepheri <ziroalpha@gmail.com>
-Section: التعديلات النهائية
+Section: Tweaks
 Version: 0.1-297+debug
 Installed-Size: 556
 
@@ -30,7 +30,7 @@ Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
 Author: Shade Zepheri <ziroalpha@gmail.com>
-Section: التعديلات النهائية
+Section: Tweaks
 Version: 0.5
 Installed-Size: 1116
 
@@ -48,7 +48,7 @@ Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
 Author: Shade Zepheri <ziroalpha@gmail.com>
-Section: التعديلات النهائية
+Section: Tweaks
 Version: 0.5.1
 Installed-Size: 1116
 
@@ -66,7 +66,7 @@ Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
 Author: Shade Zepheri <ziroalpha@gmail.com>
-Section: التعديلات النهائية
+Section: Tweaks
 Version: 0.5.2
 Installed-Size: 1116
 
@@ -86,5 +86,5 @@ Icon: file:///Applications/iCleaner.app/Icon-Small@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.exile90.icleanerpro
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Author: Ivano Bilenchi <support@ib-soft.net>
-Section: الأدوات المساعدة
+Section: Utilities
 Version: 7.7.0
