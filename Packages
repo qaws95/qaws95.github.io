@@ -12,7 +12,7 @@ Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
 Author: Shade Zepheri <ziroalpha@gmail.com>
-Section: أدوات
+Section: التعديلات النهائية
 Version: 0.1-297+debug
 Installed-Size: 556
 
@@ -30,7 +30,7 @@ Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
 Author: Shade Zepheri <ziroalpha@gmail.com>
-Section: أدوات
+Section: التعديلات النهائية
 Version: 0.5
 Installed-Size: 1116
 
@@ -48,7 +48,7 @@ Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
 Author: Shade Zepheri <ziroalpha@gmail.com>
-Section: أدوات
+Section: التعديلات النهائية
 Version: 0.5.1
 Installed-Size: 1116
 
@@ -66,7 +66,7 @@ Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
 Author: Shade Zepheri <ziroalpha@gmail.com>
-Section: أدوات
+Section: التعديلات النهائية
 Version: 0.5.2
 Installed-Size: 1116
 
@@ -82,9 +82,9 @@ MD5sum: 717f23162f6c1e755b2eb9dfe3c848f5
 SHA1: aee6ce5f65f998b26250b4cf7e552e21516a5aff
 SHA256: 710c384841f80d37c39b38fdff21ca1c2f9279d5407486fa9545ca04ccd59bb1
 Description: تنظيف الجهاز من مخلفات النظام
-Icon: file:///./Applications/iCleaner.app/icon.png
+Icon: file:///Applications/iCleaner.app/Icon-Small@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.exile90.icleanerpro
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Author: Ivano Bilenchi <support@ib-soft.net>
-Section: أساسيات
+Section: الأدوات المساعدة
 Version: 7.7.0
