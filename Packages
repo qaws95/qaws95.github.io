@@ -1,15 +1,17 @@
 Package: com.shade.nougat
-Version: 0.5.2
+Name: Nougat
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
 Architecture: iphoneos-arm
-Maintainer: Shade Zepheri <ziroalpha@gmail.com>
-Depends: firmware (>9.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
 Filename: /debs/com.shade.nougat_0.5.2_iphoneos-arm.deb
 Size: 616214
 MD5sum: c5376274c3c11b1d57a3c07387dfdb09
 SHA1: fd955d42f0f43ac11a8b5a6349ee5f0a904f9b0d
 SHA256: e68dcd0c771573f480c2ae798fad342c54d0b78795647994a07cca189fe9a005
-Section: Tweaks
 Description: تغيير شكل مركز التحكم وجعله مشابة الى نظام الاندرويد
-Author: Shade Zepheri <ziroalpha@gmail.com>
-Name: Nougat
+Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
+Maintainer: Shade Zepheri <ziroalpha@gmail.com>
+Author: Shade Zepheri <ziroalpha@gmail.com>
+Section: Tweaks
+Version: 0.5.2
+Installed-Size: 1116
