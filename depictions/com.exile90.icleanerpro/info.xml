@@ -28,5 +28,6 @@
 	</screenshots>
 	<changelog>
 		<change>إضافة دعم إصدار 11</change>
+		<change>إصلاح بعض الاخطاء</change>
 	</changelog>
 </package>

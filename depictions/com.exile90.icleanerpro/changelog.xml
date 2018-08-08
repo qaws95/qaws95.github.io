@@ -3,5 +3,14 @@
 		<version>7.7.0</version>
 		<change>إضافة دعم إصدار 11</change>
 	</changes>
+	<changes>
+		<version>7.6.4</version>
+		<change>إصلاح مشكلة الكراش</change>
+	</changes>
+	<changes>
+		<version>7.6.3</version>
+		<change>إضافة دعم الاصدارات من 10.3 الى 10.3.3</change>
+		<change>إظهار السعة بمؤشر واحد للاصدارات ما بعد 10.3</change>
+	</changes>
 </changelog>
 
