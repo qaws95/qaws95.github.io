@@ -88,3 +88,22 @@ Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Author: Ivano Bilenchi <support@ib-soft.net>
 Section: Utilities
 Version: 7.7.0
+
+Package: ws.hbang.newterm2
+Name: NewTerm 2 (iOS 7 – 11)
+Depends: firmware (>= 7.0), com.modmyi.libswift4 (>= 4.0.3-3), ws.hbang.common (>= 1.11.2), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Filename: /debs/ws.hbang.newterm2_2.0_iphoneos-arm.deb
+Size: 739528
+MD5sum: 07ecb5140e97da96e5ff72bdbdfc7949
+SHA1: d76fa1ca1897d957da6eb68399867ce964ec3591
+SHA256: 52830b7cace4229c802f864e660a7128e48fcb60cad7f19e351bf685ffe8f283
+Description: موجة اوامر
+Depiction: https://qaws95.github.io/depictions/?p=ws.hbang.newterm2
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Version: 2.0
+Installed-Size: 2192
