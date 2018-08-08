@@ -9,47 +9,26 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-<<<<<<< HEAD
-		<package>firmware (>= 4.0), apt7, findutils, shell-cmds</package>
-	</dependencies>
-	<shortDescription></shortDescription>
-	<descriptionlist>
-		<description>تنظيف وتحرير جهازك من مخلفات التصفح والملفات الزائدة
-=======
 		<package>APT, Find Utilities, shell-cmds</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>تنظيف الجهاز من مخلفات النظام
->>>>>>> 8008c6d37ee7a27ff3a2ab78e7ca488eec49f22d
+		<description>تنظيف وتحرير جهازك من مخلفات التصفح والملفات الزائدة
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-<<<<<<< HEAD
-			<description>example1</description>			
-			<image>1.png</image>
-		</screenshot>		
-		<screenshot>
-			<description>example2</description>		
-			<image>2.png</image>
-		</screenshot>
-		<screenshot>
-	</screenshots>
-	<changelog>
-		<change>دعم كامل للإصدار 11 و الايفون اكس</change>
-=======
 			<description></description>			
-			<image>1.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description></description>		
-			<image>2.jpg</image>
-		</screenshot>		
+			<image>1.png</image>
+		</screenshot>
+        <screenshot>
+			<description></description>			
+			<image>2.png</image>
+		</screenshot>					
 	</screenshots>
 	<changelog>
-		<change>إضافة دعم إصدار 11</change>
-		<change>إصلاح بعض الاخطاء</change>
->>>>>>> 8008c6d37ee7a27ff3a2ab78e7ca488eec49f22d
+		<change>إضافة دعم لشاشة الايفون اكس</change>
+		<change>إضافة الثيم الليلي</change>
+		<change>تحسين الاداء</change>
 	</changelog>
 </package>
