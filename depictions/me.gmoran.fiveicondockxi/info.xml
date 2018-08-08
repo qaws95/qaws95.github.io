@@ -1,0 +1,36 @@
+<package>
+	<id>me.gmoran.fiveicondockxi</id>
+	<name>اداة FiveIconDockXI</name>
+	<version>0.0.1-20</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.3.1</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, firmware (>= 11.0)</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>اضافة ايقونة خامسة للدوك السفلي
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>صوره</description>			
+			<image>1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>صوره</description>		
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>إعدادات الأداة</description>				
+			<image>3.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>دعم كامل للإصدار 11 و الايفون اكس</change>
+	</changelog>
+</package>

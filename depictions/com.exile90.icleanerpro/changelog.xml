@@ -1,0 +1,17 @@
+<changelog>
+	<changes>
+		<version>7.7.0</version>
+		<change>دعم كامل للاصدار 11.3.1 وجليبريك الكترا</change>
+	</changes>
+	<changes>
+		<version>7.6.4</version>
+		<change>اصلاح لانهيار التطبيق عند عرض الاعلانات</change>
+	</changes>
+    <changes>
+		<version>7.6.3</version>
+		<change>دعم لجليبريك H3lix و g0blin </change>
+		<change>اصلاح بعض الاخطاء </change>
+		<change>دعم اللغه الروسيه </change>
+	</changes>
+</changelog>
+
