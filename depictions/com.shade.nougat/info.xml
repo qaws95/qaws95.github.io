@@ -1,7 +1,7 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
+	<id>com.shade.nougat</id>
 	<name>اداة Nougat</name>
-	<version>0.5.1</version>
+	<version>0.5.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -31,6 +31,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>دعم كامل للإصدار 11 و الايفون اكس</change>
+		<change>إصلاح بعض الاخطاء</change>
+		<change>حل مشكلة كراش الأعدادات</change>
 	</changelog>
 </package>
