@@ -27,7 +27,7 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://qaws95.github.io/depictions/?p=com.supermamon.oldpackage
 
 Package: com.shade.nougat
-Version: 0.51
+Version: 0.5.1
 Section: Tweaks
 Maintainer: Shade Zepheri <ziroalpha@gmail.com>
 Depends: firmware (>9.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
