@@ -1,12 +1,21 @@
 <changelog>
 	<changes>
-		<version>1.0.0-2</version>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<version>1.4</version>
+		<change>Disable FUX for alarms</change>
 	</changes>
 	<changes>
-		<version>1.0.0-1</version>
-		<change>Initial Release</change>
+		<version>1.3.4</version>
+		<change>Accidentally removed the preferences with the last update, this fixes tha</change>
+	</changes>
+	<changes>
+		<version>1.3.3</version>
+		<change>Package update for Compatimark compatibility</change>
+	</changes>
+    <changes>
+		<version>1.3.2</version>
+		<change>Fix a mispelling in settings</change>
+		<change>Fix media controls option being disabled making </change>
+		<change>it unlock when notifications were present</change>
 	</changes>
 </changelog>
+
