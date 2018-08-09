@@ -131,7 +131,7 @@ Depends: firmware (>= 7.0), mobilesubstrate
 Conflicts: it.marcocristalli.asupdatehider, com.cokepokes.appstoreplusplus
 Architecture: iphoneos-arm
 Filename: /debs/com.unlimapps.uaupdatetools_1.0r-101_iphoneos-arm.deb
-Size: 875,008
+Size: 875008
 MD5sum: 4ab9f1fc10827990402c4a3cbbdeb46a
 SHA1: d576761d3f85f34c7eb5236a26f18df3d943dd85
 SHA256: 58a6f8e2875c78615ec6eb5637d2cccb1747d472d8cac963ac0ba82dc189b2bb
