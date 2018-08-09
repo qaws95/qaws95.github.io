@@ -1,0 +1,18 @@
+Package: net.angelxwind.appsyncunified
+Name: AppSync Unified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50
+Replaces: us.hackulo.appsync50
+Architecture: iphoneos-arm
+Filename: /debs/net.angelxwind.mikoto.deb
+Size: 30362
+MD5sum: 3d066c0024bacf35a705da8907a11e1a
+SHA1: dd4db5547cd50ba8768baf48ec778f21687a67e0
+SHA256: 7582f3123cbcd846e6bc615db8b05251bd02b85be43ef1d27e0607ad590ac4fc
+Description: امكانية تثبيت التطبيقات من خارج المتجر + مساعدة في تكرار التطبيقات والغير موقعه بشهادة مطورين
+Depiction: https://qaws95.github.io/depictions/?p=net.angelxwind.appsyncunified
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Section: Tweaks
+Version: 31.1
+Installed-Size: 256
