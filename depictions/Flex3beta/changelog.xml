@@ -1,17 +1,18 @@
 <changelog>
 	<changes>
-		<version>0.5.2</version>
-		<change>إصلاح بعض الاخطاء</change>
-		<change>حل مشكلة كراش الأعدادات</change>
+		<version>version 3~Beta48</version>
+		<change>اصلاح خطا كان يتسبب في انهيار التطبيق بعد تطبيق الباتش  عليه</change>
+		<change>هذه هي النسخه ما قبل النهائيه Felx 4</change>
 	</changes>
 	<changes>
-		<version>0.5.1</version>
-		<change>دعم كامل للإصدار 11 و الايفون اكس</change>
+		<version>version 3~Beta47</version>
+		<change>اصلاح بعض المشاكل</change>
+		<change>الان تستطيع حفظ الاضافة او التعديل على ملف في الكاش الخاص بالتطبيق</change>
+		<change>اصلاح مشكلة دائما كانت تتسبب في تعطل تطبيق الباش على البرامج</change>
 	</changes>
 	<changes>
-		<version>0.5</version>
-		<change>إعادة كتابة الاداة</change>
-		<change>إضافة إيماءات جديدة</change>
+		<version>version 3~Beta46</version>
+		<change>اصلاح مشكلة كانت تسبب في انهيار التطبيق عند تشغيله ، شكرا لـ @domoTM للابلاغ</change>
 	</changes>
     <changes>
 		<version>0.1-297+debug</version>

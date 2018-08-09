@@ -1,12 +1,22 @@
 <changelog>
 	<changes>
-		<version>1.0.0-2</version>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<version>3.0.16</version>
+		<change>اصلاح خطا عدم القدرة على الدخول لاعلادادات الاداه</change>
 	</changes>
 	<changes>
-		<version>1.0.0-1</version>
-		<change>Initial Release</change>
+		<version>3.0.15</version>
+		<change>اصلاح الستوري في وضع الشبكه على انستقرام اصدار 54.0</change>
+		<change>اضافة 3D toutch لعرض البوست </change>
+		<change>اصلاخ خلل يحدث عند محاولة شراء Rocket Pro</change>
+	</changes>
+	<changes>
+		<version>3.0.14</version>
+		<change>اصلاح الخروج المفاجىء لوضع الشبكه على انستقرام 52.0</change>
+
+	</changes>
+    <changes>
+		<version>3.0.13</version>
+		<change>اصلاحات وتحسينات عامه</change>
 	</changes>
 </changelog>
+

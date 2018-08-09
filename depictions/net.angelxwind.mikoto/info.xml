@@ -1,46 +1,32 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<id>net.angelxwind.mikoto</id>
+	<name>اداة Mikoto</name>
+	<version>4.0.3</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
-			<maxiOS>11.3.1</maxiOS>
+			<miniOS>5.0</miniOS>
+			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs (>= 1.4), net.angelxwind.karenlocalizer</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
+		<description>اداة بها الالاف من المميزات وجودها ضروري ولا غنى عنه
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>مركز التحكم</description>			
+			<image>1.png</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>اعادة كتابة كود السويتشر من الصفر</change>
+		<change>اصلاح واضافة تشغيل الاداه على الـ iPhone X</change>
+		<change>بشكل مؤقت: تم تعطيل خيار اخفاء حساب الاي كلاود في الاعدادات وذلك للتبليغ عن خطا بها من قبل بعض المستخدمين</change>
+		<change>تثبيت mikoto سوف يقوم مباشرة بازالة اداه SimpleLSiOS بسبب انهيار الاداه وتعارضها </change>
+		
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
 </package>

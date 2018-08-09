@@ -1,37 +1,33 @@
 <package>
-	<id>com.shade.nougat</id>
-	<name>اداة Nougat</name>
-	<version>0.5.2</version>
+	<id>net.angelxwind.preferenceorganizer2</id>
+	<name>اداة preferenceorganizer2</name>
+	<version>4.0.5</version>
 	<compatibility>
 		<firmware>
-			<miniOS>9.0</miniOS>
-			<maxiOS>11.3.1</maxiOS>
+			<miniOS>6.0</miniOS>
+			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>MobileSubstrate, PreferenceLoader, Cephei, TechSupport Framework</package>
+		<package>mobilesubstrate, preferenceloader (>= 2.2.3), firmware (>= 6.0), net.angelxwind.karenprefs (>= 1.3), net.angelxwind.karenlocalizer</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>تغيير شكل مركز التحكم وجعله مشابة الى نظام الاندرويد
+		<description>تجميع صفحة الاعدادات في جهازك وتقسيمها الى 4 اقسام يسهل عليك الوصول الى مبتغاك
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>مركز التحكم</description>			
+			<description>صوره</description>			
 			<image>1.png</image>
 		</screenshot>		
 		<screenshot>
-			<description>مركز التحكم</description>		
+			<description>صوره</description>		
 			<image>2.png</image>
-		</screenshot>
-		<screenshot>
-			<description>إعدادات الأداة</description>				
-			<image>3.png</image>
-		</screenshot>		
+		</screenshot>	
 	</screenshots>
 	<changelog>
-		<change>إصلاح بعض الاخطاء</change>
-		<change>حل مشكلة كراش الأعدادات</change>
+		<change>اصلاح خطا في iOS 10 كان يتسبب في الخروج من الاعدادات بشكل مفاجىء</change>
+		<change>اصلاحات عامه لتحسين الاداه</change>
 	</changelog>
 </package>
