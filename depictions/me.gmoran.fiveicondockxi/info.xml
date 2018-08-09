@@ -5,11 +5,11 @@
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-			<maxiOS>11.3.1</maxiOS>
+			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate, firmware (>= 11.0)</package>
+		<package>MobileSubstrate, iOS >= 11.0)</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>

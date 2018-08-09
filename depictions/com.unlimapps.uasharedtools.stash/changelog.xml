@@ -1,12 +1,10 @@
 <changelog>
 	<changes>
-		<version>1.0.0-2</version>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<version>2.2r-61</version>
+		<change>تحسينات في الاداء</change>
 	</changes>
 	<changes>
-		<version>1.0.0-1</version>
-		<change>Initial Release</change>
+		<version>2.2r-59</version>
+		<change>إصدار اولي</change>
 	</changes>
 </changelog>

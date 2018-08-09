@@ -1,19 +1,19 @@
 <package>
-	<id>ch.mdaus.palette</id>
-	<name>اداة Palette</name>
-	<version>1.0</version>
+	<id>us.nakedproductions.dylibdisabler3</id>
+	<name>DylibDisabler 3</name>
+	<version>3.0-0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
-			<maxiOS>11.4</maxiOS>
+			<miniOS>10.0</miniOS>
+			<maxiOS>11.3.1</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>MobileSubstrate, libcolorpicker</package>
+		<package>iOS >=10</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>تغير لون الاشعارات لنفس لون التطبيق</description>
+		<description>تطبيق لالغاء الاداوات , يساعدك في حل المشاكل</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -24,16 +24,12 @@
 			<description></description>
 			<image>2.jpg</image>
 		</screenshot>
-		<screenshot>
+        <screenshot>
 			<description></description>
 			<image>3.jpg</image>
-		</screenshot>
-		<screenshot>
-			<description></description>
-			<image>4.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>إصدار أولي</change>
+		<change>الإصدار الاولي للأداة</change>
 	</changelog>
 </package>

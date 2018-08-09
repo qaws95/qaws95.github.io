@@ -4,11 +4,11 @@
 	<version>0.0~beta5</version>
 	<compatibility>
 		<firmware>11.0/miniOS>
-			<maxiOS>11.3.1</maxiOS>
+			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>preferenceloader, mobilesubstrate, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware (>= 11.0)</package>
+		<package>iOS>= 11.0, MobileSubstrate, PreferenceLoader, CCSupport, FlipSwitch</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>

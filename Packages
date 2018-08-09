@@ -2,60 +2,6 @@ Package: com.shade.nougat
 Name: Nougat
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
 Architecture: iphoneos-arm
-Filename: /debs/com.shade.nougat_0.1-297+debug_iphoneos-arm.deb
-Size: 67988
-MD5sum: 4d6d55a0d7c0834ad980958a4731e041
-SHA1: 056d8ee53f818e573531b3f4f610ed3c6f068ce5
-SHA256: ce84d0697740a0b7e876e7c5325d09caeb40d676553e6bec42138bc1704241ab
-Description: تغيير شكل مركز التحكم وجعله مشابة الى نظام الاندرويد
-Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
-Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
-Maintainer: Shade Zepheri <ziroalpha@gmail.com>
-Author: Shade Zepheri <ziroalpha@gmail.com>
-Section: Tweaks
-Version: 0.1-297+debug
-Installed-Size: 556
-
-Package: com.shade.nougat
-Name: Nougat
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
-Architecture: iphoneos-arm
-Filename: /debs/com.shade.nougat_0.5_iphoneos-arm.deb
-Size: 615596
-MD5sum: f43feb8890b6589cd1c7ed296b65a8fd
-SHA1: e4fbeaaef30664bfc5c419b233164852ebd1bd42
-SHA256: e047d2786392e9ecb73a1936e80f0d9578bdc9a50cc58fdf52f2b8d4ff8391ac
-Description: Android NC for iOS
-Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
-Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
-Maintainer: Shade Zepheri <ziroalpha@gmail.com>
-Author: Shade Zepheri <ziroalpha@gmail.com>
-Section: Tweaks
-Version: 0.5
-Installed-Size: 1116
-
-Package: com.shade.nougat
-Name: Nougat
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
-Architecture: iphoneos-arm
-Filename: /debs/com.shade.nougat_0.5.1_iphoneos-arm.deb
-Size: 615952
-MD5sum: 070f63599f3e1c74f6b997a05fa51c9d
-SHA1: 65dd3c668d853a0ea637db64614a1917fefbcb57
-SHA256: 55dd82521af791367f00154a19a12ac802e260104d71aee18d819c44a61b24ee
-Description: Android NC for iOS
-Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
-Depiction: https://qaws95.github.io/depictions/?p=com.shade.nougat
-Maintainer: Shade Zepheri <ziroalpha@gmail.com>
-Author: Shade Zepheri <ziroalpha@gmail.com>
-Section: Tweaks
-Version: 0.5.1
-Installed-Size: 1116
-
-Package: com.shade.nougat
-Name: Nougat
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
-Architecture: iphoneos-arm
 Filename: /debs/com.shade.nougat_0.5.2_iphoneos-arm.deb
 Size: 616214
 MD5sum: c5376274c3c11b1d57a3c07387dfdb09
@@ -81,7 +27,7 @@ Size: 4625528
 MD5sum: 717f23162f6c1e755b2eb9dfe3c848f5
 SHA1: aee6ce5f65f998b26250b4cf7e552e21516a5aff
 SHA256: 710c384841f80d37c39b38fdff21ca1c2f9279d5407486fa9545ca04ccd59bb1
-Description: تنظيف الجهاز من مخلفات النظام
+Description: تنظيف وتحرير جهازك من مخلفات التصفح والملفات الزائدة
 Icon: file:///Applications/iCleaner.app/Icon-Small@2x.png
 Depiction: https://qaws95.github.io/depictions/?p=com.exile90.icleanerpro
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
@@ -107,3 +53,298 @@ Author: HASHBANG Productions <support@hbang.ws>
 Section: Terminal Support
 Version: 2.0
 Installed-Size: 2192
+
+Package: us.nakedproductions.dylibdisabler3
+Name: DylibDisabler 3
+Depends: firmware (>= 10.0)
+Conflicts: us.nakedproductions.dylibdisabler, us.nakedproductions.dylibdisabler2
+Replaces: us.nakedproductions.dylibdisabler3
+Architecture: iphoneos-arm
+Filename: /debs/us.nakedproductions.dylibdisabler_3.0-0_iphoneos-arm.deb
+Size: 666914
+MD5sum: 13e2434452f97abd6db29126dae9984c
+SHA1: 6aeb69f6e862e7803fdc76ca108d28d38d20d632
+SHA256: 921e9cb1af2350b1c61ed458a640ef8312bc76067dce5a0eec1e530839d2a8e2
+Description: تطبيق لالغاء الاداوات , يساعدك في حل المشاكل
+Depiction: https://qaws95.github.io/depictions/?p=us.nakedproductions.dylibdisabler3
+Maintainer: EvilPenguin / ichitaso
+Author: EvilPenguin / ichitaso
+Section: Utilities
+Version: 3.0
+
+Package: me.alfhaily.rocket.lib
+Name: libRocket
+Depends: firmware (>= 8.0), com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: /debs/me.alfhaily.rocket.lib_1.0.2_iphoneos-arm.deb
+Size: 7070202
+MD5sum: 58e7c3f701d46e1c35294d59e84fc6b0
+SHA1: 47a3a747a2b5ebdfbc6b6b89e75d62f8c37d73f0
+SHA256: 78e97c65c31501dbf53eca0eed468e7fc1392aa67c1e95de6f0233fd0407cdb3
+Description: اداة مساعدة لأداة Rocket
+Depiction: https://qaws95.github.io/depictions/?p=me.alfhaily.rocket.lib
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Author: Majd Alfhaily <freemanrepo@me.com>
+Section: Development
+Version: 1.0.2
+
+Package: com.ryleyangus.libertylite
+Name: Liberty Lite
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty
+Architecture: iphoneos-arm
+Filename: /debs/com.ryleyangus.libertylite_0.2.10_iphoneos-arm.deb
+Size: 46610
+MD5sum: de8005d35c2204becf725c327f68e1e5
+SHA1: 434f034c55b792f51216342afd04ab965a614570
+SHA256: 01574e57f52163b9c776c8ea86b03e511b3dcbc0918cdedef9ceedd71e23a9f8
+Description: إخفاء الجلبريك عن التطبيقات
+Depiction: https://qaws95.github.io/depictions/?p=com.ryleyangus.libertylite
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Section: Tweaks
+Version: 0.2.10
+Installed-Size: 476
+
+Package: net.angelxwind.preferenceorganizer2
+Name: PreferenceOrganizer 2
+Depends: mobilesubstrate, preferenceloader (>= 2.2.3), firmware (>= 6.0), net.angelxwind.karenprefs (>= 1.3), net.angelxwind.karenlocalizer
+Conflicts: com.phillipt.noappsettings, jp.r-plus.cloaky, me.qusic.preferenceorganizer, com.sull.preferenceorganizer, com.sull.preferenceorganizer2, com.sull.preferenceorganizer7
+Replaces: org.ilendsoft.preferenceorganizer, com.eliz.preferenceorganizer7
+Architecture: iphoneos-arm
+Filename: /debs/net.angelxwind.preferenceorganizer2.deb
+Size: 1377484
+MD5sum: cb584a2d75048730a1f0455121075f4f
+SHA1: 7f15d1b69224da9f54271116401b73d9fa7df467
+SHA256: 465eccc598b4d061b7dd49f1cd3a49ecea27adc62d49afc963888840f19c819e
+Description: تجميع صفحة الاعدادات في جهازك وتقسيمها الى 4 اقسام يسهل عليك الوصول الى مبتغاك
+Depiction: https://qaws95.github.io/depictions/?p=net.angelxwind.preferenceorganizer2
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Section: Tweaks
+Version: 4.0.5
+Installed-Size: 1872
+
+Package: com.unlimapps.uaupdatetools
+Name: App Admin
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider, com.cokepokes.appstoreplusplus
+Architecture: iphoneos-arm
+Filename: /debs/com.unlimapps.uaupdatetools_1.0r-101_iphoneos-arm.deb
+Size: 875,008
+MD5sum: 4ab9f1fc10827990402c4a3cbbdeb46a
+SHA1: d576761d3f85f34c7eb5236a26f18df3d943dd85
+SHA256: 58a6f8e2875c78615ec6eb5637d2cccb1747d472d8cac963ac0ba82dc189b2bb
+Description: إرجاع إصدار التطبيقات من الاب ستور
+Depiction: https://qaws95.github.io/depictions/?p=com.unlimapps.uaupdatetools
+Maintainer: UnlimApps Inc. <support@unlimapps.com>
+Author: UnlimApps Inc. <support@unlimapps.com>
+Section: System
+Version: 1.0r-101
+
+Package: com.unlimapps.uasharedtools.nostash
+Name: uasharedtools (iOS 11)
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools, com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Replaces: com.unlimapps.uasharedtools.stash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Architecture: iphoneos-arm
+Filename: /debs/com.unlimapps.uasharedtools.nostash_2.2r-61_iphoneos-arm.deb
+Size: 22785424
+MD5sum: 57aee2d915780a062b05e95279402e61
+SHA1: b016a60349118f5c3cd6a81b0ad92c434e7a1ec5
+SHA256: 85927a443666d0c51e64d953974e0f87361f5ababe0a30795dcbadd910c858d6
+Description: أداة مساعدة لادوات البلس
+Depiction: https://qaws95.github.io/depictions/?p=com.unlimapps.uasharedtools.nostash
+Maintainer: UnlimApps Inc. <support@unlimapps.com>
+Author: UnlimApps Inc. <support@unlimapps.com>
+Section: Development
+Version: 2.2r-61
+
+Package: com.unlimapps.uasharedtools.stash
+Name: uasharedtools (iOS 7-10)
+Depends: mobilesubstrate, firmware (<< 11.0)
+Conflicts: com.yourepo.abo1bs.uasharedtoolsno-ads, com.hackyouriphone.uasharedtools, com.unlimapps.uasharedtools.nostash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Replaces: com.unlimapps.uasharedtools.nostash, com.unlimapps.uasharedtools (<< 2.2r-36)
+Architecture: iphoneos-arm
+Filename: /debs/com.unlimapps.uasharedtools.stash_2.2r-61_iphoneos-arm.deb
+Size: 22784848
+MD5sum: ee5095b2b731adb1d42ea29bbe6696c6
+SHA1: 3f3b808031edd5b3bed55a7386528b2b285f454b
+SHA256: 9b911db34373ffb5ad152b17f2a3049051b4ae9afdfc56d214df92db94152f76
+Description: أداة مساعدة لادوات البلس
+Depiction: https://qaws95.github.io/depictions/?p=com.unlimapps.uasharedtools.stash
+Maintainer: UnlimApps Inc. <support@unlimapps.com>
+Author: UnlimApps Inc. <support@unlimapps.com>
+Section: Development
+Version: 2.2r-61
+
+Package: net.angelxwind.mikoto
+Name: mikoto
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs (>= 1.4), net.angelxwind.karenlocalizer
+Conflicts: com.xcxiao.simplelsios10
+Architecture: iphoneos-arm
+Filename: /debs/net.angelxwind.mikoto.deb
+Size: 11582804
+MD5sum: e1f49254a62ed949fd6d7d44c0b01043
+SHA1: 5717d7348bd1a23cc7bb94f659704409a21eeb8a
+SHA256: ea31dd47acfa2c397664ffb19e8bcc130d356d37fad49ccd6c45ebb32f06de69
+Description: اداة بها الالاف من المميزات وجودها ضروري ولا غنى عنه
+Depiction: https://qaws95.github.io/depictions/?p=net.angelxwind.mikoto
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Section: Tweaks
+Version: 4.0.3
+Installed-Size: 15548
+
+Package: net.angelxwind.appsyncunified
+Name: AppSync Unified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50
+Replaces: us.hackulo.appsync50
+Architecture: iphoneos-arm
+Filename: /debs/net.angelxwind.mikoto.deb
+Size: 30,362
+MD5sum: 3d066c0024bacf35a705da8907a11e1a
+SHA1: dd4db5547cd50ba8768baf48ec778f21687a67e0
+SHA256: 7582f3123cbcd846e6bc615db8b05251bd02b85be43ef1d27e0607ad590ac4fc
+Description: امكانية تثبيت التطبيقات من خارج المتجر + مساعدة في تكرار التطبيقات والغير موقعه بشهادة مطورين
+Depiction: https://qaws95.github.io/depictions/?p=net.angelxwind.appsyncunified
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Section: Tweaks
+Version: 31.1
+Installed-Size: 256
+
+Package: me.gmoran.fiveicondockxi
+Name: FiveIconDockXI
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/me.gmoran.fiveicondockxi_0.0.1-20_iphoneos-arm.deb
+Size: 2560
+MD5sum: 44167107191191eb1432781917787540
+SHA1: 6e4c9dee46a2e2d978b97808e067a56c47ae06e5
+SHA256: b76c02b9854e0e5c40244bcdd4118dd31eae8d104ce9140c72499a691495c300
+Description: اضافة ايقونة خامسة للدوك السفلي
+Depiction: https://qaws95.github.io/depictions/?p=me.gmoran.fiveicondockxi
+Maintainer: Guillermo Moran
+Author: Guillermo Moran
+Section: Tweaks
+Version: 0.0.1-20
+Installed-Size: 120
+
+Package: Flex3beta
+Name: Flex 3 Beta
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package, com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, flex3featurecatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package, com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, flex3featurecatalog
+Architecture: iphoneos-arm
+Filename: /debs/Flex3_3_Beta48.deb
+Size: 20685344
+MD5sum: d2ffdc66b5735c12a360225cb71e57e8
+SHA1: 9bfe30f839ecc221a89d15ffe7ad9ce4203f2ffc
+SHA256: 9229d74d837c1fac1bf6ff1b304e0784f6cf6e3f867e943318433cf37ede9586
+Description: إنشاء/تثبيت باتشات خاصة فالنظام
+Depiction: https://qaws95.github.io/depictions/?p=Flex3beta
+Maintainer: John Coates
+Author: John Coates
+Section: Tweaks
+Version: 1:3~Beta48
+
+Package: com.julioverne.flipconvert
+Name: FlipConvert
+Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: /debs/com.julioverne.flipconvert_0.0_beta5_iphoneos-arm.deb
+Size: 12096
+MD5sum: 693022ef5f547b74310d91b4c5493c5f
+SHA1: a338636fa9aea089973931af9cd1310462c6f3ba
+SHA256: 54737b61d903e6e624aa82123d6ad45b1b6de2dd358c869382350d790274785f
+Description: أضافة FlipSwitch إلى CCSupport
+Depiction: https://qaws95.github.io/depictions/?p=com.julioverne.flipconvert
+Maintainer: Julioverne
+Author: Julioverne
+Section: Tweaks
+Version: 0.0~beta5
+
+Package: com.julioverne.celldia
+Name: CellDia
+Depends: mobilesubstrate, cydia
+Architecture: iphoneos-arm
+Filename: /debs/com.julioverne.celldia_0.0_beta5_iphoneos-arm.deb
+Size: 20012
+MD5sum: 66397cc1ea555845371bf859725a419b
+SHA1: 82119df72671dbaca889a1f765a1c09ae606db32
+SHA256: 03cb7fb18fb13e6553eb79533c26f41a984034e47c8a2f5ce76cce58fa2ab5a7
+Description: تغيير تصميم السيديا
+Depiction: https://qaws95.github.io/depictions/?p=com.julioverne.celldia
+Maintainer: Julioverne
+Author: Julioverne
+Section: Tweaks
+Version: 0.0~beta5
+
+Package: com.cpdigitaldarkroom.fastunlockx
+Name: FastUnlockX
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/com.cpdigitaldarkroom.fastunlockx_1.4_iphoneos-arm.deb
+Size: 19558
+MD5sum: 3db3fcacf6568e5316be5c344d60fcff
+SHA1: 2e4a7a7ae7e8c76ea85511d1fe7959857ed4f0a1
+SHA256: d9d3c56f2697463d56514eabd5b51b6af6c0826b89baed015b52f2b266ae5b96
+Description: تسريع عملية فتح القفل عن طريق ال FaceID
+Depiction: https://qaws95.github.io/depictions/?p=com.cpdigitaldarkroom.fastunlockx
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Section: Tweaks
+Version: 1.4
+Installed-Size: 260
+
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.appadmin, com.unlimapps.uaupdatetools
+Architecture: iphoneos-arm
+Filename: /debs/com.cokepokes.appstoreplusplus_0.6-2_iphoneos-arm.deb
+Size: 776792
+MD5sum: 1fd2d89ef50917da14358fb8ab003435
+SHA1: 384af2f6b2af97dda33ced4eb113737aabd82e41
+SHA256: 659ec94d73baec550e37a4e5f0e490eb9cbd8df0b8c90e1c252a616f191e51df
+Description: إرجاع إصدار التطبيقات من الاب ستور
+Depiction: https://qaws95.github.io/depictions/?p=com.cokepokes.appstoreplusplus
+Maintainer: CokePokes <cokepokes@gmail.com>
+Author: CokePokes <cokepokes@gmail.com>
+Section: Tweaks
+Version: 0.6-2
+
+Package: com.bytafont.bytafont3
+Name: BytaFont 3
+Depends: firmware (>= 9), mobilesubstrate, unzip
+Architecture: iphoneos-arm
+Filename: /debs/com.bytafont.bytafont3_3.5_iphoneos-arm.deb
+Size: 779640
+MD5sum: ce5fc79edb29efd057568d7a10e5beb5
+SHA1: 64aef98f883279c93c1611eabc29d03ab44af72a
+SHA256: d9dd82962695ce0fa427d6586b86ca44f643c7de90a028992cd4d2892afdd0c5
+Description: ادارة الخطوط لجهازك وتثبيت اي خط يعجبك
+Depiction: https://qaws95.github.io/depictions/?p=com.bytafont.bytafont3
+Maintainer: BytaFont.com <info@bytafont.com>
+Author: BytaFont.com <info@bytafont.com>
+Section: System
+Version: 3.5
+
+Package: ch.mdaus.palette
+Name: Palette
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: /debs/ch.mdaus.palette_1.0_iphoneos-arm.deb
+Size: 407808
+MD5sum: 1a0f179386ca7b6ae4640942c2409280
+SHA1: 1cc6221afcb0d30cb89b84443fe2dbbf132ca798
+SHA256: f8565768e5d94054dbbd80f870f7a31f09aa5695e8cf830913473a0b8bb5567f
+Description: تغير لون الاشعارات لنفس لون التطبيق
+Depiction: https://qaws95.github.io/depictions/?p=ch.mdaus.palette
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 736

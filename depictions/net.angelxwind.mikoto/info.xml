@@ -9,7 +9,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs (>= 1.4), net.angelxwind.karenlocalizer</package>
+		<package>iOS>= 5.0, MobileSubstrate, PreferenceLoader, KarenPrefs, KarenLocalizer</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
@@ -27,6 +27,5 @@
 		<change>اصلاح واضافة تشغيل الاداه على الـ iPhone X</change>
 		<change>بشكل مؤقت: تم تعطيل خيار اخفاء حساب الاي كلاود في الاعدادات وذلك للتبليغ عن خطا بها من قبل بعض المستخدمين</change>
 		<change>تثبيت mikoto سوف يقوم مباشرة بازالة اداه SimpleLSiOS بسبب انهيار الاداه وتعارضها </change>
-		
 	</changelog>
 </package>

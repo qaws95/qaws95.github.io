@@ -1,7 +1,7 @@
 <package>
 	<id>com.bytafont.bytafont3</id>
 	<name>اداة bytafont 3</name>
-	<version>3.2</version>
+	<version>3.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -9,7 +9,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>firmware (>= 9),unzip,mobilesubstrate</package>
+		<package>iOS>= 9, MobileSubstrate, unzip</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>

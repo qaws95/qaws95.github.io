@@ -5,15 +5,15 @@
 	<compatibility>
 		<firmware>
 			<miniOS>6.0</miniOS>
-			<maxiOS>11.3.1</maxiOS>
+			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate, cydia</package>
+		<package>MbileSubstrate, Cydia</package>
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-		<description>تغيير تصميم طريقة الحذف دون الحاجة الى الدخول على الاداه
+		<description>تغيير تصميم السيديا
 		</description>
 	</descriptionlist>
 	<screenshots>
