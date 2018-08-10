@@ -247,6 +247,7 @@ Version: 3.0.16
 Package: com.cokepokes.appstoreplusplus
 Name: AppStore++
 Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.appadmin, com.unlimapps.uaupdatetools
 Architecture: iphoneos-arm
 Filename: /debs/com.cokepokes.appstoreplusplus_0.6-2_iphoneos-arm.deb
 Size: 776792
@@ -257,5 +258,6 @@ Description: إرجاع إصدار التطبيقات من الاب ستور
 Depiction: https://qaws95.github.io/depictions/?p=com.cokepokes.appstoreplusplus
 Maintainer: CokePokes <cokepokes@gmail.com>
 Author: CokePokes <cokepokes@gmail.com>>
+Priority: optional
 Section: Tweaks
 Version: 0.6-2
