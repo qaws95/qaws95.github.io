@@ -244,18 +244,18 @@ Author: Majd Alfhaily
 Section: Tweaks
 Version: 3.0.16
 
-Package: com.bytafont.bytafont3
-Name: BytaFont 3
-Depends: firmware (>= 9),unzip,mobilesubstrate
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++
+Depends: firmware (>= 11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: /debs/BytaFont32.deb
-Size: 2030354
-MD5sum: 25ca7ee144f8d66297f6527e2105f939
-SHA1: c9df4c47ad235353a81d39a24b232933bd729b70
-SHA256: fb2494a2937a8c4b8750ac4bf0685f68584ab63503bcd995747338f3e25f3ce4
-Description: ادارة الخطوط لجهازك وتثبيت اي خط يعجبك
-Depiction: https://qaws95.github.io/depictions/?p=com.bytafont.bytafont3
-Maintainer: BytaFont.com
-Author: BytaFont.com
-Section: System
-Version: 3.2
+Filename: /debs/com.cokepokes.appstoreplusplus_0.6-2_iphoneos-arm.deb
+Size: 776792
+MD5sum: 1fd2d89ef50917da14358fb8ab003435
+SHA1: 384af2f6b2af97dda33ced4eb113737aabd82e41
+SHA256: 659ec94d73baec550e37a4e5f0e490eb9cbd8df0b8c90e1c252a616f191e51df
+Description: إرجاع إصدار التطبيقات من الاب ستور
+Depiction: https://qaws95.github.io/depictions/?p=com.cokepokes.appstoreplusplus
+Maintainer: CokePokes <cokepokes@gmail.com>
+Author: CokePokes <cokepokes@gmail.com>>
+Section: Tweaks
+Version: 0.6-2
