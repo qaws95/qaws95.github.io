@@ -294,7 +294,7 @@ SHA1: 64aef98f883279c93c1611eabc29d03ab44af72a
 SHA256: d9dd82962695ce0fa427d6586b86ca44f643c7de90a028992cd4d2892afdd0c5
 Section: System
 Priority: optional
-Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
+Description: ادارة الخطوط لجهازك وتثبيت اي خط يعجبك
 Author: BytaFont.com <info@bytafont.com>
 Depiction: https://qaws95.github.io/depictions/?p=com.bytafont.bytafont3
 Name: BytaFont 3
