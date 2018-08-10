@@ -245,19 +245,19 @@ Section: Tweaks
 Version: 3.0.16
 
 Package: com.cokepokes.appstoreplusplus
-Name: AppStore++
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.appadmin, com.unlimapps.uaupdatetools
+Version: 0.6-2
 Architecture: iphoneos-arm
-Filename: /debs/com.cokepokes.appstoreplusplus_0.6-2_iphoneos-arm.deb
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.appadmin
+Filename: deb/com.cokepokes.appstoreplusplus_0.6-2_iphoneos-arm.deb
 Size: 776792
 MD5sum: 1fd2d89ef50917da14358fb8ab003435
 SHA1: 384af2f6b2af97dda33ced4eb113737aabd82e41
 SHA256: 659ec94d73baec550e37a4e5f0e490eb9cbd8df0b8c90e1c252a616f191e51df
-Description: إرجاع إصدار التطبيقات من الاب ستور
-Depiction: https://qaws95.github.io/depictions/?p=com.cokepokes.appstoreplusplus
-Maintainer: CokePokes
-Author: CokePokes
-Priority: optional
 Section: Tweaks
-Version: 0.6-2
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11.
+Author: CokePokes
+Depiction: https://qaws95.github.io/depictions/?p=com.cokepokes.appstoreplusplus
+Name: AppStore++
