@@ -1,11 +1,11 @@
 <package>
-	<id>e.alfhaily.rocket</id>
+	<id>me.alfhaily.rocket</id>
 	<name>اداة Rocket For instagram</name>
 	<version>3.0.16</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
-			<maxiOS>11.3.1</maxiOS>
+			<maxiOS>11.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -35,6 +35,6 @@
 		</screenshot>			
 	</screenshots>
 	<changelog>
-		<change>اصلاح خطا عدم القدرة على الدخول لاعلادادات الاداه</change>
+		<change>اصلاح خطاء عدم القدرة على الدخول الى اعدادات الأداة</change>
 	</changelog>
 </package>

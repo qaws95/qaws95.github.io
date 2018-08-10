@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
 		<version>3.0.16</version>
-		<change>اصلاح خطا عدم القدرة على الدخول لاعلادادات الاداه</change>
+		<change>اصلاح خطاء عدم القدرة على الدخول الى اعدادات الأداة</change>
 	</changes>
 	<changes>
 		<version>3.0.15</version>
