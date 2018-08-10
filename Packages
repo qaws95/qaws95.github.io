@@ -227,3 +227,19 @@ Author: Maxwell Dausch <max.dausch@gmail.com>
 Section: Tweaks
 Version: 1.0
 Installed-Size: 736
+
+Package: me.alfhaily.rocket
+Name: Rocket for Instagram
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap, me.alfhaily.rocket.lib (>= 1.0.1)
+Architecture: iphoneos-arm
+Filename: /debs/me.alfhaily.rocket_3.0.16_iphoneos-arm.deb
+Size: 2427380
+MD5sum: c95896b9e7ef51b485629a2a8e5c1353
+SHA1: dd3a3ea8126f761526831ed33ed968a7db554607
+SHA256: 28d43e00fae59dda46d256890eb821d1607ccf2219710c0eacbf73635f2e2291
+Description: حفظ المقاطع من الانستقرام
+Depiction: https://qaws95.github.io/depictions/?p=me.alfhaily.rocket
+Maintainer: Majd Alfhaily
+Author: Majd Alfhaily
+Section: Tweaks
+Version: 3.0.16
