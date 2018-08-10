@@ -1,0 +1,33 @@
+<package>
+	<id>com.ryleyangus.libertylite</id>
+	<name>Liberty Lite</name>
+	<version>0.2.10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate, PreferenceLoader, AppList</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>إخفاء الجلبريك عن التطبيقات</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+</package>
