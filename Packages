@@ -250,7 +250,7 @@ Architecture: iphoneos-arm
 Maintainer: CokePokes
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.appadmin
-Filename: deb/com.cokepokes.appstoreplusplus_0.6-2_iphoneos-arm.deb
+Filename: debs/com.cokepokes.appstoreplusplus_0.6-2_iphoneos-arm.deb
 Size: 776792
 MD5sum: 1fd2d89ef50917da14358fb8ab003435
 SHA1: 384af2f6b2af97dda33ced4eb113737aabd82e41
@@ -269,7 +269,7 @@ Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
 Replaces: us.hackulo.appsync50
-Filename: deb/net.angelxwind.appsyncunified.deb
+Filename: debs/net.angelxwind.appsyncunified.deb
 Size: 30362
 MD5sum: 3d066c0024bacf35a705da8907a11e1a
 SHA1: dd4db5547cd50ba8768baf48ec778f21687a67e0
@@ -288,7 +288,7 @@ Architecture: iphoneos-arm
 Maintainer: Mikasa <nami_san@outlook.com>
 Depends: firmware (>= 11), unzip, mobilesubstrate
 Conflicts: com.unlimapps.appadmin
-Filename: deb/com.bytafont.bytafont3_3.5_iphoneos-arm.deb
+Filename: debs/com.bytafont.bytafont3_3.5_iphoneos-arm.deb
 Size: 779640
 MD5sum: ce5fc79edb29efd057568d7a10e5beb5
 SHA1: 64aef98f883279c93c1611eabc29d03ab44af72a
