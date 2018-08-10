@@ -1,9 +1,14 @@
 <!DOCTYPE html>
-<html dir="rtl">
+<html dir="rtl" class=" cytyle-flat cytyle-hair">
 <head>
   <title>وصف الاداة</title>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="format-detection" content="telephone=no">
+  <script type="text/javascript" src="http://cydia.saurik.com/fastclick/lib/fastclick.js"></script>
+  <script type="text/javascript" src="http://cydia.saurik.com/cytyle/style-3c578a2a65b28de08a903cddcf2ea0feae341e61.js"></script>
+  <base target="_top">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="../assest/bootstrap.min.css"/>
   <link rel="stylesheet" type="text/css" href="style.css"> 
@@ -13,6 +18,10 @@
   <script type="text/javascript" src="js/jquery.querystring.js"></script>
   <script type="text/javascript" src="js/data-loader-engine.js"></script>
   <script type="text/javascript" src="js/ios_version_check.js"></script>
+  <script type="text/javascript">if(navigator.userAgent.search(/Cydia/)!=-1){var title=document.title;var dot=title.indexOf('·');if(dot!=-1)
+document.title=title.substring(0,dot);}</script>
+  <script type="text/javascript" src="http://cache.saurik.com/menes/menes.js"></script>
+  <style type="text/css">.cytyle-faux .cytyle-app>div.icon{background-image:url(../CydiaIcon.png)}.cytyle-flat .cytyle-app>div.icon{background-image:url(../CydiaIcon.png)}</style>
   <style> 
 	@media (max-width: 767px) {
 		body{background:#efeff4!important;margin:0;padding:0;border:0;outline:0;box-sizing:border-box}
@@ -161,7 +170,9 @@
 </head>
 <body>
 <br />
-
+<div class="cytyle-app"><div class="icon"></div><div class="right"><div><a href="cydia://package/com.cydiageek.adaptivecolorpower"><p>OPEN</p></a></div></div><div class="left"><label><p>Cydia</p></label><label><p>by Jay Freeman (saurik)</p></label><label><p>“the alternative to apps”</p></label></div></div>
+<script type="text/javascript">if(navigator.userAgent.search(/Mobile/)==-1)
+$('.cytyle-app').remove();</script>
 <div id="packageInformation">
 
 	<div id="packageHeader" class="container" style="display:none">
