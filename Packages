@@ -364,7 +364,7 @@ Size: 266950
 MD5sum: aa7b8d9d4efbfd983501853ee333a163
 SHA1: 493c46aee9f7bfe58fe486d9f4677c210e84c184
 SHA256: ff557efb3a2335507087e310055b0732becf3d6a507594c2395444ada33c7c02
-Section: Tweaks
+Section: System
 Priority: optional
 Description: أداة مساعدة
 Author: CreatureSurvive <dbuehre@me.com>
