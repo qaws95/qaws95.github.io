@@ -16,6 +16,12 @@
 		<description>تسريع عملية حذف الكلام
 		</description>
 	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.gif</image>
+		</screenshot>			
+	</screenshots>
 	<changelog>
 		<change>إعادة كتابة الاداة</change>
 		<change>فتح سورس الأداة</change>

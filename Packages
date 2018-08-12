@@ -369,7 +369,7 @@ Priority: optional
 Description: أداة مساعدة
 Author: CreatureSurvive <dbuehre@me.com>
 Depiction: https://qaws95.github.io/depictions/?p=com.creaturecoding.libcspreferences
-Name: ebullience
+Name: libCSPreferences
 Installed-Size: 1624
 
 Package: com.creaturecoding.fastdel
