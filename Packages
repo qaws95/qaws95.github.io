@@ -105,6 +105,7 @@ Depiction: https://qaws95.github.io/depictions/?p=com.ryleyangus.libertylite
 Maintainer: Ryley Angus
 Author: Ryley Angus
 Section: Tweaks
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Version: 0.2.10
 Installed-Size: 476
 
@@ -298,3 +299,187 @@ Description: ادارة الخطوط لجهازك وتثبيت اي خط يعج�
 Author: BytaFont.com <info@bytafont.com>
 Depiction: https://qaws95.github.io/depictions/?p=com.bytafont.bytafont3
 Name: BytaFont 3
+
+Package: applebetas.ios.tweak.sleekquicktype
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: debs/applebetas.ios.tweak.sleekquicktype_1.0.1-1_iphoneos-arm.deb
+Size: 6440
+MD5sum: 6583d1d2dc290401dba259d91aa5d4b8
+SHA1: cc3deba7887a7aa1e7a9e5cc53aa7ffee56051fa
+SHA256: f2d6da4578997765324367aface65ef9b943c4ee400b5a92f8104e7e638ba22a
+Section: Tweaks
+Priority: optional
+Description: تغير شكل الاقتراحات اعلى الكيبورد مثل iOS 12
+Author: AppleBetas
+Depiction: https://qaws95.github.io/depictions/?p=applebetas.ios.tweak.sleekquicktype
+Name: SleekQuickType
+Installed-Size: 72
+
+Package: applebetas.ios.tweak.time11
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AppleBetas
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: debs/applebetas.ios.tweak.time11_1.0_iphoneos-arm.deb
+Size: 2704
+MD5sum: 19919c22ae8a438e2f5252e0462d8eda
+SHA1: d36cc7d72af2cec608d4601185f8c89a7b44a690
+SHA256: 58533d1c0f978da788107955a98556852ccb86ccf237f125512b81a031758113
+Section: Tweaks
+Priority: optional
+Description: تعريض الساعة
+Author: AppleBetas
+Depiction: https://qaws95.github.io/depictions/?p=applebetas.ios.tweak.time11
+Name: TimeXI
+Installed-Size: 72
+
+Package: com.creaturecodiing.ebullience
+Version: 1.0.1b
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Filename: debs/com.creaturecodiing.ebullience_1.0.1b_iphoneos-arm.deb
+Size: 14608
+MD5sum: dda9281a026dc1fa7942451deab1a086
+SHA1: d14b74122c3242c4faf9a48f06f247d64e369577
+SHA256: af9b25c1a12fa4fdc68cc449a2ce322c07de699247ba58de27e32125e91c46c0
+Section: Tweaks
+Priority: optional
+Description: إضافة انيميشن عند النزول والطلوع في الصفحة
+Author: CreatureSurvive <dbuehre@me.com>
+Depiction: https://qaws95.github.io/depictions/?p=com.creaturecodiing.ebullience
+Name: ebullience
+Installed-Size: 176
+
+Package: com.creaturecoding.libcspreferences
+Version: 0.9.9.9
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Depends: preferenceloader, mobilesubstrate
+Filename: debs/com.creaturecoding.libcspreferences_0.9.9.9_iphoneos-arm.deb
+Size: 266950
+MD5sum: aa7b8d9d4efbfd983501853ee333a163
+SHA1: 493c46aee9f7bfe58fe486d9f4677c210e84c184
+SHA256: ff557efb3a2335507087e310055b0732becf3d6a507594c2395444ada33c7c02
+Section: Tweaks
+Priority: optional
+Description: أداة مساعدة
+Author: CreatureSurvive <dbuehre@me.com>
+Depiction: https://qaws95.github.io/depictions/?p=com.creaturecoding.libcspreferences
+Name: ebullience
+Installed-Size: 1624
+
+Package: com.creaturecoding.fastdel
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <dbuehre@me.com>
+Depends: mobilesubstrate
+Filename: debs/com.creaturecoding.fastdel_0.3_iphoneos-arm.deb
+Size: 42790
+MD5sum: c13b9cdaed963bbd3d798c50b27b1acd
+SHA1: 4d7c9a1b128c6d63d31c8d399677a260b9efdc2d
+SHA256: b8c9b961a806857417c05b95814e9ce60e1390703fae5ea8486e2b90396d08b8
+Section: Tweaks
+Priority: optional
+Description: تسريع عملية حذف الكلام
+Author: CreatureSurvive <dbuehre@me.com>
+Depiction: https://qaws95.github.io/depictions/?p=com.creaturecoding.fastdel
+Name: FastDel
+Installed-Size: 440
+
+Package: com.creaturecoding.covert
+Version: 0.7
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: debs/com.creaturecoding.covert_0.7_iphoneos-arm.deb
+Size: 7700
+MD5sum: 51a7263dcbcb76bc8c5ded40e05b4ca0
+SHA1: 623964591215e554ac8fcc82c3334e1bc2eb7d2a
+SHA256: abb8da31fd547b8442a0e55c7bc05c0758f23a4bfcbbc89d182d0ed1d91aa7af
+Section: Tweaks
+Priority: optional
+Description: إخفاء / كتم الرسائل
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://qaws95.github.io/depictions/?p=com.creaturecoding.covert
+Icon: 
+Name: covert
+Installed-Size: 72
+
+Package: com.creaturecoding.copyvideourl
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Depends: mobilesubstrate
+Filename: debs/com.creaturecoding.copyvideourl_0.1.0_iphoneos-arm.deb
+Size: 3920
+MD5sum: 72f2558ee6ab9c7cfbab6ce16838cf1d
+SHA1: f6b3f644546f6788986d565cf34fe27271253a4c
+SHA256: 7ce7e8bc1a304276698b02010a58b433cf33730af1ae99d2339d18b946eaef46
+Section: Tweaks
+Priority: optional
+Description: نسخ رابط الفيديو من المشغل
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://qaws95.github.io/depictions/?p=com.creaturecoding.copyvideourl
+Icon: 
+Name: CopyVideoURL
+Installed-Size: 200
+
+Package: com.tapthaker.bigshotjb11
+Version: 0.0.2-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate, libactivator (>= 1.8.3), com.rpetrich.rocketbootstrap
+Conflicts: com.tapthaker.bigshotjb
+Filename: debs/com.tapthaker.bigshotjb11_0.0.2-2_iphoneos-arm_julioverne.deb
+Size: 32840
+MD5sum: b1cc164bfec0012f4985b11e85be3a0e
+SHA1: 8a85453fef2aaafd8646b2cb5c81177e56149287
+SHA256: 6c2f56f292e64e2cddb1a49f00d76a8ad790fc00f7c6bf6b56bc0e333290c11e
+Section: Tweaks
+Priority: optional
+Description: أخذ صورة كاملة للشاشة
+Author: Tapan Thaker (tapthaker) <tapan.d.thaker@gmail.com>
+Depiction: https://qaws95.github.io/depictions/?p=com.tapthaker.bigshotjb11
+Tag: purpose::extension, compatible::ios9
+dev: tapthaker 
+Name: BigShotJb (iOS 11)
+Installed-Size: 212
+
+Package: com.idevicehacked.miscsettings
+Version: 2.0.8
+Architecture: iphoneos-arm
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: debs/com.idevicehacked.miscsettings_2.0.8_iphoneos-arm.deb
+Size: 161760
+MD5sum: 046650739f08af2deafaa69bdca83ea1
+SHA1: 866d68d89764d035bedfcfc3d1dad6475910302d
+SHA256: 8173d767e4894904dfcba525c8c62b0152a1ff2e2681e90c0d8b7c43893e8bc1
+Section: Tweaks
+Priority: optional
+Description: أكثر من 46 خيار لتعديل النظام
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Depiction: https://qaws95.github.io/depictions/?p=com.idevicehacked.miscsettings
+Name: MiscSettings
+Installed-Size: 548
+
+Package: com.jeffrey.pikabulite
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: debs/com.jeffrey.pikabulite_1.1.0_iphoneos-arm.deb
+Size: 230526
+MD5sum: 3e5582746aca1bd94bcab95aa4314d43
+SHA1: 7c5cf75068fc7141409b6caee43b3a6edddd41fa
+SHA256: 68b4a26c10efb02b7e2ac7fd22de1da92054a84f6596447d346547749c65a3a7
+Section: Tweaks
+Priority: optional
+Description: تغيير شكل واجهة تغيير الصوت
+Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
+Depiction: https://qaws95.github.io/depictions/?p=com.jeffrey.pikabulite
+Name: Pikabu Lite
