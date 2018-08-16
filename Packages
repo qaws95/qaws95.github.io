@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Package: com.midnightchips.bettersettings10
 Name: BetterSettings10
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker, firmware(<<11)
@@ -30,11 +31,28 @@ Description: Develop your own tweaks and share them on the Flex Community Cloud
 Maintainer: John Coates
 Author: John Coates			  
 Section: Tweaks										
-
-Package: com.shade.nougat
-Name: Nougat
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.a3tweaks.flipswitch
+=======
+Package: com.cpdigitaldarkroom.barmoji
+Name: Barmoji
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
+Description: Quick emoji access for iPhone X
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios11.4
+Version: 1.3.2
+Installed-Size: 168
+Size: 23856
+MD5sum: 5c00c5259de2a8df40707a44e86b4e15
+Filename: ./debs/com.cpdigitaldarkroom.barmoji_1.3.2_iphoneos-arm.deb
+>>>>>>> bc8d9afd345ed6572247349f3995f58f6cbcc3bb
+
+Package: com.cpdigitaldarkroom.benrosen.facespro
+Name: Faces Pro
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.3), ws.hbang.common (>= 1.6)
+Architecture: iphoneos-arm
+<<<<<<< HEAD
 Description: Android NC for iOS
 Icon: file:///Library/PreferenceBundles/Nougat.bundle/icon@2x.png
 Depiction: http://shade-zepheri.github.io/depic/index.html?p=com.shade.nougat
@@ -113,17 +131,156 @@ Icon: file:///Library/PreferenceBundles/AvertasPreferences.bundle/Avertas@2x.png
 Size: 40856
 MD5sum: ae68239e7867eaf571e726a6318fa9bd
 Filename: ./debs/avertas_7-1.deb
+=======
+Description: Customize your passcode buttons the way you like.
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Author: Ben Rosen & CPDigitalDarkroom <support@quantumtweaks.com>
+Section: Tweaks
+Version: 1.2
+Installed-Size: 452
+Size: 132486
+MD5sum: d4a33ae04d5197952bb029d6e0cd76ce
+Filename: ./debs/com.cpdigitaldarkroom.benrosen.facespro_1.2_iphoneos-arm.deb
 
-Package: ch.mdaus.palette
-Name: Palette
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Package: com.ichitaso.removeadstoggle
+Name: RemoveAdsToggle
+Depends: firmware (>= 4.0), mobilesubstrate
+Replaces: com.ichitaso.removeadstoggle
+Conflicts: com.ichitaso.removeads
 Architecture: iphoneos-arm
+Description: Adblock hosts & iAd Remove Toggle
+Author: ichitaso
+Maintainer: ichitaso
+Homepage: http://ichitaso.com/
+Section: Addons
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+dev: ichitaso
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Version: 1.4-4
+Installed-Size: 1512
+Size: 149726
+MD5sum: c445fb976e56660a2e2122f21b55fabf
+Filename: ./debs/com.ichitaso.removeadstoggle_1.4-4_iphoneos-arm.deb
+
+Package: com.maxarmin.7icondock
+Name: 7IconDock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 7 icons on a dock? Are you kidding me?
+Maintainer: maxarmin
+Author: maxarmin
+Section: Tweaks
+Version: 0.1.0
+Installed-Size: 117
+Size: 2542
+MD5sum: 1031145f080e99179d80533cc10d7148
+Filename: ./debs/com.maxarmin.7icondock_0.1.0_iphoneos-arm.deb
+
+Package: com.maxarmin.sixicondock
+Name: SixIconDock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Now you can have six icons on the dock!
+Maintainer: maxarmin
+Author: maxarmin
+Section: Tweaks
+Version: 0.1.0-1+debug
+Installed-Size: 117
+Size: 2976
+MD5sum: 0c45c8de383e4096ccadf9ae70358df6
+Filename: ./debs/com.maxarmin.sixicondock_0.1.0-1+debug_iphoneos-arm.deb
+
+Package: com.midnightchips.bettersettings
+Name: BetterSettings
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: Settings your way
+Maintainer: midnightchips
+Author: midnightchips
+Section: Tweaks
+Version: 0.0.6
+Installed-Size: 1820
+Size: 1232226
+MD5sum: 7beb37963c6e568c8c8c4469f69159f2
+Filename: ./debs/com.midnightchips.bettersettings_0.0.6_iphoneos-arm.deb
+
+Package: com.muirey03.smallsiri
+Name: SmallSiri
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Make siri smaller and unobtrusive!
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 117
+Size: 7078
+MD5sum: 39a4c28d427fc3d0f3b65122c278ce06
+Filename: ./debs/com.muirey03.smallsiri_1.0.0_iphoneos-arm.deb
+
+Package: com.rustybalboa.colormycc
+Name: colormycc
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.1)
+Architecture: iphoneos-arm
+Description: ColorMyCC Colors the background, modules and buttons of the control center to your preference!
+Maintainer: Maddox, Muirey03
+Author: Maddox, Muirey03
+Section: Tweaks
+Version: 2.0.0
+Installed-Size: 270
+Size: 19364
+MD5sum: eb8dcb944d426419bffcf48cc6fc61dc
+Filename: ./debs/com.rustybalboa.colormycc_2.0.0_iphoneos-arm.deb
+
+Package: com.rustybalboa.powertapxi
+Name: PowerTapXI
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Updated Version Of PowerTap For iOS11!
+Maintainer: Rusty_Balboa
+Author: Rusty_Balboa
+Section: Tweaks
+Depiction: https://rustybalboadev.github.io/depictions/?p=com.rustybalboa.powertapxi
+Version: 1.0.0-2
+Installed-Size: 120
+Size: 4306
+MD5sum: 3ced94e14305c5629e5431f1dc5cda7e
+Filename: ./debs/com.rustybalboa.powertapxi_1.0.0-2_iphoneos-arm.deb
+
+Package: com.rustybalboa.vibvol
+Name: VibVol
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Vibrations When Using The Volume Controller.
+Maintainer: RustyBalboaDev
+Author: RustyBalboaDev
+Section: Tweaks
+Depiction: https://rustybalboadev.github.io/depictions/?p=com.rustybalboa.vibvol
+Version: 0.0.1
+Installed-Size: 120
+Size: 2900
+MD5sum: 4381d095fe6659fd4d958736c8cbf49c
+Filename: ./debs/com.rustybalboa.vibvol_0.0.1_iphoneos-arm.deb
+>>>>>>> bc8d9afd345ed6572247349f3995f58f6cbcc3bb
+
+Package: com.simalary.auxiliumdevelopment.previewbegone
+Name: PreviewBeGone
+Depends: mobilesubstrate, firmware(>=11.0)
+Architecture: iphoneos-arm
+<<<<<<< HEAD
 Description: Color notifications based off of icon color
 Maintainer: Maxwell Dausch <max.dausch@gmail.com>
 Author: Maxwell Dausch <max.dausch@gmail.com>
+=======
+Description: Eliminate the screenshot preview on iOS 11.
+Maintainer: Simalary (Chris)
+Author: Simalary (Chris)
+>>>>>>> bc8d9afd345ed6572247349f3995f58f6cbcc3bb
 Section: Tweaks
 Depiction: http://mdaus.ch/repo/depictions/?p=ch.mdaus.palette
 Version: 1.0
+<<<<<<< HEAD
 Installed-Size: 736
 Size: 407808
 MD5sum: 1a0f179386ca7b6ae4640942c2409280
@@ -794,4 +951,222 @@ Installed-Size: 2192
 Size: 739528
 MD5sum: 07ecb5140e97da96e5ff72bdbdfc7949
 Filename: ./debs/ws.hbang.newterm2_2.0_iphoneos-arm.deb
+=======
+Installed-Size: 117
+Size: 2882
+MD5sum: 3d312d2844ea5ef7568922e6796eadcc
+Filename: ./debs/com.simalary.auxiliumdevelopment.previewbegone_1.0_iphoneos-arm.deb
+
+Package: com.smokin1337.fdots
+Name: FDots
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hide annoying dots. Hides badges, update, beta and page dots.
+Maintainer: smokin1337
+Author: smokin1337
+Section: Tweaks
+Version: 1.0.0-4
+Installed-Size: 224
+Size: 47880
+MD5sum: fafa2fc9e61e8e7cc7451cb586d17060
+Filename: ./debs/com.smokin1337.fdots_1.0.0-4_iphoneos-arm.deb
+
+Package: com.smokin1337.smartlpm
+Name: SmartLPM
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging. And more....
+Maintainer: smokin1337
+Author: smokin1337
+Section: Tweaks
+Version: 1.3.0-1
+Installed-Size: 332
+Size: 145960
+MD5sum: fdfb47460a8146434c7b981844bbbc4c
+Filename: ./debs/com.smokin1337.smartlpm_1.3.0-1_iphoneos-arm.deb
+
+Package: com.spark.HideBarX
+Name: HideBarX [Public]
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hides the iPhone X home bar - compatible with VolumeBarX
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 56
+Size: 3164
+MD5sum: 2b4a8054dd9a6a9889fdb0297b7f5d00
+Filename: ./debs/com.spark.hidebarx_0.0.2_iphoneos-arm.deb
+
+Package: com.spark.laetus
+Name: Laetus
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Custom keyboard colours
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.1-108
+Installed-Size: 616
+Size: 84476
+MD5sum: a1e266413a5e22c50c0880c167e8aba8
+Filename: ./debs/com.spark.laetus_0.0.1-108_iphoneos-arm.deb
+
+Package: com.spark.melior
+Name: Melior [Public]
+Depends: mobilesubstrate, preferenceloader
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Architecture: iphoneos-arm
+Description: Custom volume HUD
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=Melior
+Maintainer: Spark
+Author: Spark & Dennis Bednarz
+Section: Tweaks
+Version: 1.0.6-1
+Installed-Size: 844
+Size: 208304
+MD5sum: 0d59359a996519fc240c6ae74ddabbdf
+Filename: ./debs/com.spark.melior_1.0.6-1_iphoneos-arm.deb
+
+Package: com.spark.noccbar
+Name: NoCCBar
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Removes the annoying lockscreen control center grabber bar on iPhone X iOS 11.2+
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=NoCCBar
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 120
+Size: 2726
+MD5sum: ba006826197fe8af99f6abf14c60abe9
+Filename: ./debs/com.spark.noccbar_1.0.1_iphoneos-arm.deb
+
+Package: com.spark.nomoresmallapps
+Name: NoMoreSmallApps [Public]
+Depends: mobilesubstrate, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Description: Make all apps full screen on iPhone X
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 208
+Size: 18748
+MD5sum: c354d7245e94b0ebd6d0aebd3a12792b
+Filename: ./debs/com.spark.nomoresmallapps_0.0.2_iphoneos-arm.deb
+
+Package: com.spark.sleepytime
+Name: SleepyTime
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Displays the time until alarms in the stock iOS 'Clock' app.
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=SleepyTime
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.1-4
+Installed-Size: 336
+Size: 91684
+MD5sum: 26c5f33605e26e7c84daccae5b8c6556
+Filename: ./debs/com.spark.sleepytime_0.0.1-4_iphoneos-arm.deb
+
+Package: com.thireus.hostscleaner
+Priority: standard
+Name: Hosts Cleaner
+Version: 1.0.4
+Installed-Size: 0
+Section: Security
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: sed, grep, coreutils
+Architecture: iphoneos-arm
+Author: Thireus <repo@thireus.com>
+Maintainer: Thireus <repo@thireus.com>
+Description: Restore your original /etc/hosts file
+ Hosts Cleaner is a script that resets your /etc/hosts file to its original state (default localhost entries).
+ .
+ Bear in mind this package will remove all non-original Apple hosts entries (ocsp.apple.com is one of them).
+ .
+ It is advised to install this package before installing 'Untrusted Hosts Blocker' to make sure your hosts file is clean and that other ad blocker tweaks won't interfere with it. This tweak can also help people who may have a corrupted or heavy hosts file (noticable device behaviors: connection issues or slow device).
+ .
+ You can also install this package to clean your /etc/hosts file. But if you have ad blockers installed such as 'Untrusted Hosts Blocker', you will simply have to reinstall them to add the blocked host entries back to your /etc/hosts file.
+ .
+ When installed: This package creates a backup of your current /etc/hosts file in /etc/hosts.thireus.hostscleaner.bak.
+ When uninstalled: This package only removes the backup file, understand that it will not restore your previous /etc/hosts. If you want to restore your previous /etc/hosts, do it manually with the backup file before uninstalling this package.
+ .
+ UPDATED: v1.0.4 (20/08/2016) - Original Apple hosts entries cleanup + host block count fixed
+Homepage: http://repo.thireus.com
+Size: 1964
+MD5sum: 16340f5f9e13e3a5716a1eed6b3687f0
+Filename: ./debs/com.thireus.hostscleaner_1.0.4_iphoneos-arm.deb
+
+Package: com.thireus.untrustedhostsblocker9
+Priority: standard
+Name: iOS 9/10/11 - Untrusted Hosts Blocker
+Version: 1.4.0
+Installed-Size: 68
+Section: Security
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds
+Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker
+Architecture: iphoneos-arm
+Author: Thireus <repo@thireus.com>
+Maintainer: Thireus <repo@thireus.com>
+Description: Say goodbye to tracking, spies, intrusive ads and untrusted hosts.
+ Blocks around 3,000 blacklisted hosts!
+ .
+ This tweak's main goal is to block a maximum of third-party hosts used by your applications that have been identified as collecting personal and confidential data (location, contacts, UDID, etc.) for commercial, tracking or advertising purpose.
+ .
+ This package will add all blacklisted hosts to your /etc/hosts file. It will NOT overwrite your custom hosts file (if you already have custom entries in your hosts file, they will remain untouched)!
+ .
+ If you are unhappy with this hack you can uninstall this package. It will ONLY remove the installed entries by the tweak and leave untouched any other entries you may have added manually to the hosts file. But make sure to wait until the end of the uninstallation process. In case your hosts file is broken (should never happen), the installation or uninstallation script will repair it.
+ .
+ If Internet is not working on your device anymore after installing this tweak, it means your /etc/hosts file is too big for mDNSResponder. If that happens, please uninstall this tweak, then install "Hosts Cleaner" and reinstall this tweak.
+ .
+ Avoid combining this tweak with other hosts blocker tweaks as they may interfere with your customized /etc/hosts file.
+ .
+ IMPORTANT: Due to /etc/hosts filesize limitations since iOS 9, this version mainly focuses on blocking hosts that can impact your privacy or security. Some of the most common advertisement hosts are still blocked by this version but a lot had to be removed from the previous UHB versions. Therefore, I cannot guarantee that you won't see any ads at all. If you are looking to block ads you should install the package "Experimental Untrusted Hosts Blocker" which includes additional hosts such as all the hosts present from "Minimal Hosts Blocker" made by @ReddestDream.
+ .
+ Please only send me blocking requests for intrusive hosts. I will no longer consider requests for harmless advertisement hosts. Sorry.
+ .
+ UPDATED: v1.3.0 (30/03/2018) - Official support for iOS 11.
+ UPDATED: v1.4.0 (24/07/2018) - The new install script will try to prevent installations that would lead to a /etc/hosts file size that iOS can’t handle (install will fail if the size limit is reached and will ask the user to clear the hosts file). For reference, this is a known issue that break iOS domain name resolving once the hosts file reaches a certain size.
+Homepage: https://repo.thireus.com
+Size: 45352
+MD5sum: 1b71002fd80d321cbe14cec7ec67bceb
+Filename: ./debs/com.thireus.untrustedhostsblocker9_1.4.0_iphoneos-arm.deb
+
+Package: com.tigisoftware.appdatamanager
+Name: Apps Manager
+Depends: zip
+Architecture: iphoneos-arm
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Version: 1.4.0-45
+Installed-Size: 8852
+Size: 3628386
+MD5sum: ad8b5483c7678f5a29091f575b205d03
+Filename: ./debs/com.tigisoftware.appdatamanager_1.4.0-45_iphoneos-arm.deb
+
+Package: com.ryleyangus.libertylite
+Name: Liberty Lite
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty
+Architecture: iphoneos-arm
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Section: Tweaks
+Depiction: https://qaws95.github.io/depictions/?p=libertylite
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Version: 0.2.10
+Installed-Size: 476
+Size: 46610
+MD5sum: de8005d35c2204becf725c327f68e1e5
+Filename: ./debs/libertylite_0.2.10.deb
+>>>>>>> bc8d9afd345ed6572247349f3995f58f6cbcc3bb
 
