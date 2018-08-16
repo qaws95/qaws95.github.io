@@ -1,332 +1,294 @@
 Package: com.cpdigitaldarkroom.barmoji
-Version: 1.3.2
-Architecture: iphoneos-arm
-Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Name: Barmoji
 Depends: mobilesubstrate
-Filename: ./debs/com.cpdigitaldarkroom.barmoji_1.3.2_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Quick emoji access for iPhone X
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios11.4
+Version: 1.3.2
+Installed-Size: 168
 Size: 23856
 MD5sum: 5c00c5259de2a8df40707a44e86b4e15
-SHA1: afe11c51987f82efccdf1190f86f3c1c57a622cb
-SHA256: 14a2ed541714dbf915f9d3ee574418785de36c9cc966fe1585432a92c95868d0
-Section: Tweaks
-Description: Quick emoji access for iPhone X
-Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
-Installed-Size: 168
-Name: Barmoji
-Tag: purpose::extension, compatible_min::ios10, compatible_max::ios11.4
+Filename: ./debs/com.cpdigitaldarkroom.barmoji_1.3.2_iphoneos-arm.deb
 
 Package: com.cpdigitaldarkroom.benrosen.facespro
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: Faces Pro
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.3), ws.hbang.common (>= 1.6)
-Filename: ./debs/com.cpdigitaldarkroom.benrosen.facespro_1.2_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Customize your passcode buttons the way you like.
+Maintainer: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Author: Ben Rosen & CPDigitalDarkroom <support@quantumtweaks.com>
+Section: Tweaks
+Version: 1.2
+Installed-Size: 452
 Size: 132486
 MD5sum: d4a33ae04d5197952bb029d6e0cd76ce
-SHA1: 23904da324d630c70ec32108c3453375ec9206d8
-SHA256: 9b6dd24c662ac4939cb3a206f79a0efcc6a8770f5d1cd8d77a20117f2a83e263
-Section: Tweaks
-Description: Customize your passcode buttons the way you like.
-Author: Ben Rosen & CPDigitalDarkroom <support@quantumtweaks.com>
-Installed-Size: 452
-Name: Faces Pro
+Filename: ./debs/com.cpdigitaldarkroom.benrosen.facespro_1.2_iphoneos-arm.deb
 
 Package: com.ichitaso.removeadstoggle
-Version: 1.4-4
-Architecture: iphoneos-arm
-Maintainer: ichitaso
+Name: RemoveAdsToggle
 Depends: firmware (>= 4.0), mobilesubstrate
-Conflicts: com.ichitaso.removeads
 Replaces: com.ichitaso.removeadstoggle
-Filename: ./debs/com.ichitaso.removeadstoggle_1.4-4_iphoneos-arm.deb
-Size: 149726
-MD5sum: c445fb976e56660a2e2122f21b55fabf
-SHA1: ed0517bd8cb67f981ee3134b451f3572ecefe6f3
-SHA256: 5bd7e3c16b6ceb31d5359b1977dad86888de06e289325b0fbab5f0b6ae0700c1
-Section: Addons
+Conflicts: com.ichitaso.removeads
+Architecture: iphoneos-arm
 Description: Adblock hosts & iAd Remove Toggle
 Author: ichitaso
-Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
+Maintainer: ichitaso
 Homepage: http://ichitaso.com/
-Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
-Installed-Size: 1512
-Name: RemoveAdsToggle
-Tag: purpose::extension, compatible::ios7, compatible::ios8
+Section: Addons
+Depiction: http://ichitaso.com/apt/depiction/RemoveAdsToggle.html
 dev: ichitaso
+Tag: purpose::extension, compatible::ios7, compatible::ios8
+Icon: file:///Library/PreferenceBundles/RemoveAdsToggle.bundle/RemoveAdsToggle@2x.png
+Version: 1.4-4
+Installed-Size: 1512
+Size: 149726
+MD5sum: c445fb976e56660a2e2122f21b55fabf
+Filename: ./debs/com.ichitaso.removeadstoggle_1.4-4_iphoneos-arm.deb
 
 Package: com.maxarmin.7icondock
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: maxarmin
+Name: 7IconDock
 Depends: mobilesubstrate
-Filename: ./debs/com.maxarmin.7icondock_0.1.0_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: 7 icons on a dock? Are you kidding me?
+Maintainer: maxarmin
+Author: maxarmin
+Section: Tweaks
+Version: 0.1.0
+Installed-Size: 117
 Size: 2542
 MD5sum: 1031145f080e99179d80533cc10d7148
-SHA1: fc9b93c717c1d5edf39cfb9a69019173c984d394
-SHA256: e04c5cc8611937da4c86d37be121dd0a2a6764b46493ed4ae7bc5d7df2b89f0c
-Section: Tweaks
-Description: 7 icons on a dock? Are you kidding me?
-Author: maxarmin
-Installed-Size: 117
-Name: 7IconDock
+Filename: ./debs/com.maxarmin.7icondock_0.1.0_iphoneos-arm.deb
 
 Package: com.maxarmin.sixicondock
-Version: 0.1.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: maxarmin
+Name: SixIconDock
 Depends: mobilesubstrate
-Filename: ./debs/com.maxarmin.sixicondock_0.1.0-1+debug_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Now you can have six icons on the dock!
+Maintainer: maxarmin
+Author: maxarmin
+Section: Tweaks
+Version: 0.1.0-1+debug
+Installed-Size: 117
 Size: 2976
 MD5sum: 0c45c8de383e4096ccadf9ae70358df6
-SHA1: 16538ca0d65852764f0caa15f8a9aab8f280cdb9
-SHA256: 35cbdeeedbf97096ca6bd836bc20d2173420ab978275e78ce476816e582cfdbe
-Section: Tweaks
-Description: Now you can have six icons on the dock!
-Author: maxarmin
-Installed-Size: 117
-Name: SixIconDock
+Filename: ./debs/com.maxarmin.sixicondock_0.1.0-1+debug_iphoneos-arm.deb
 
 Package: com.midnightchips.bettersettings
-Version: 0.0.6
-Architecture: iphoneos-arm
-Maintainer: midnightchips
+Name: BetterSettings
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
-Filename: ./debs/com.midnightchips.bettersettings_0.0.6_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Settings your way
+Maintainer: midnightchips
+Author: midnightchips
+Section: Tweaks
+Version: 0.0.6
+Installed-Size: 1820
 Size: 1232226
 MD5sum: 7beb37963c6e568c8c8c4469f69159f2
-SHA1: 0da59c306acaac6cfd9ef08768af404e83e4ba28
-SHA256: 26249d408a035b2b4f10394b1d5c88bc8eae18cba191bf8334c81ec6a24beb90
-Section: Tweaks
-Description: Settings your way
-Author: midnightchips
-Installed-Size: 1820
-Name: BetterSettings
+Filename: ./debs/com.midnightchips.bettersettings_0.0.6_iphoneos-arm.deb
 
 Package: com.muirey03.smallsiri
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Muirey03
+Name: SmallSiri
 Depends: mobilesubstrate
-Filename: ./debs/com.muirey03.smallsiri_1.0.0_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Make siri smaller and unobtrusive!
+Maintainer: Muirey03
+Author: Muirey03
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 117
 Size: 7078
 MD5sum: 39a4c28d427fc3d0f3b65122c278ce06
-SHA1: ebb86352bd48309857f0b3b173fc34ab40cb540b
-SHA256: 44e0e2aeedc5b2656852b9cd463052fb33f139934552a9a93f11e01fe44cbcc2
-Section: Tweaks
-Description: Make siri smaller and unobtrusive!
-Author: Muirey03
-Installed-Size: 117
-Name: SmallSiri
+Filename: ./debs/com.muirey03.smallsiri_1.0.0_iphoneos-arm.deb
 
 Package: com.rustybalboa.colormycc
-Version: 2.0.0
-Architecture: iphoneos-arm
-Maintainer: Maddox, Muirey03
+Name: colormycc
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.1)
-Filename: ./debs/com.rustybalboa.colormycc_2.0.0_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: ColorMyCC Colors the background, modules and buttons of the control center to your preference!
+Maintainer: Maddox, Muirey03
+Author: Maddox, Muirey03
+Section: Tweaks
+Version: 2.0.0
+Installed-Size: 270
 Size: 19364
 MD5sum: eb8dcb944d426419bffcf48cc6fc61dc
-SHA1: 42dfb9ae7bae1fa2a449e93d425262bc0780c2ce
-SHA256: 0957384ff1ca5b37c16d4c3e4a710fc14b0d65e0efe982bf3579a427ac7d6f36
-Section: Tweaks
-Description: ColorMyCC Colors the background, modules and buttons of the control center to your preference!
-Author: Maddox, Muirey03
-Installed-Size: 270
-Name: colormycc
+Filename: ./debs/com.rustybalboa.colormycc_2.0.0_iphoneos-arm.deb
 
 Package: com.rustybalboa.powertapxi
-Version: 1.0.0-2
-Architecture: iphoneos-arm
-Maintainer: Rusty_Balboa
+Name: PowerTapXI
 Depends: mobilesubstrate
-Filename: ./debs/com.rustybalboa.powertapxi_1.0.0-2_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Updated Version Of PowerTap For iOS11!
+Maintainer: Rusty_Balboa
+Author: Rusty_Balboa
+Section: Tweaks
+Depiction: https://rustybalboadev.github.io/depictions/?p=com.rustybalboa.powertapxi
+Version: 1.0.0-2
+Installed-Size: 120
 Size: 4306
 MD5sum: 3ced94e14305c5629e5431f1dc5cda7e
-SHA1: fd5119b68b95d03cedba576434ecab078da2c01b
-SHA256: aad63a21894f6816cfeac9e746a73193c0b8347c3c32d1fc9623bb1132f3d2de
-Section: Tweaks
-Description: Updated Version Of PowerTap For iOS11!
-Author: Rusty_Balboa
-Depiction: https://rustybalboadev.github.io/depictions/?p=com.rustybalboa.powertapxi
-Installed-Size: 120
-Name: PowerTapXI
+Filename: ./debs/com.rustybalboa.powertapxi_1.0.0-2_iphoneos-arm.deb
 
 Package: com.rustybalboa.vibvol
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: RustyBalboaDev
+Name: VibVol
 Depends: mobilesubstrate
-Filename: ./debs/com.rustybalboa.vibvol_0.0.1_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Vibrations When Using The Volume Controller.
+Maintainer: RustyBalboaDev
+Author: RustyBalboaDev
+Section: Tweaks
+Depiction: https://rustybalboadev.github.io/depictions/?p=com.rustybalboa.vibvol
+Version: 0.0.1
+Installed-Size: 120
 Size: 2900
 MD5sum: 4381d095fe6659fd4d958736c8cbf49c
-SHA1: 1c41536776549530cbb12d9b2bb6b3c973c05cac
-SHA256: 417d32548c36acede697a39dbdabf835bca816e2039c338592eca015c55e046d
-Section: Tweaks
-Description: Vibrations When Using The Volume Controller.
-Author: RustyBalboaDev
-Depiction: https://rustybalboadev.github.io/depictions/?p=com.rustybalboa.vibvol
-Installed-Size: 120
-Name: VibVol
+Filename: ./debs/com.rustybalboa.vibvol_0.0.1_iphoneos-arm.deb
 
 Package: com.simalary.auxiliumdevelopment.previewbegone
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Simalary (Chris)
+Name: PreviewBeGone
 Depends: mobilesubstrate, firmware(>=11.0)
-Filename: ./debs/com.simalary.auxiliumdevelopment.previewbegone_1.0_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Eliminate the screenshot preview on iOS 11.
+Maintainer: Simalary (Chris)
+Author: Simalary (Chris)
+Section: Tweaks
+Version: 1.0
+Installed-Size: 117
 Size: 2882
 MD5sum: 3d312d2844ea5ef7568922e6796eadcc
-SHA1: 66616c0c6724186683735f5566d346f2e32e648c
-SHA256: 1371a2f0912ebd2497dd0add2300d60885a358c6ed759a720ae7cc3755877eac
-Section: Tweaks
-Description: Eliminate the screenshot preview on iOS 11.
-Author: Simalary (Chris)
-Installed-Size: 117
-Name: PreviewBeGone
+Filename: ./debs/com.simalary.auxiliumdevelopment.previewbegone_1.0_iphoneos-arm.deb
 
 Package: com.smokin1337.fdots
-Version: 1.0.0-4
-Architecture: iphoneos-arm
-Maintainer: smokin1337
+Name: FDots
 Depends: mobilesubstrate
-Filename: ./debs/com.smokin1337.fdots_1.0.0-4_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Hide annoying dots. Hides badges, update, beta and page dots.
+Maintainer: smokin1337
+Author: smokin1337
+Section: Tweaks
+Version: 1.0.0-4
+Installed-Size: 224
 Size: 47880
 MD5sum: fafa2fc9e61e8e7cc7451cb586d17060
-SHA1: a8462e4c511cc6003e776d69575e5b36e90a1403
-SHA256: 70e805771a38169081c8d7758d94723ca6250fb0c9fd02ab9af919d499b5851c
-Section: Tweaks
-Description: Hide annoying dots. Hides badges, update, beta and page dots.
-Author: smokin1337
-Installed-Size: 224
-Name: FDots
+Filename: ./debs/com.smokin1337.fdots_1.0.0-4_iphoneos-arm.deb
 
 Package: com.smokin1337.smartlpm
-Version: 1.3.0-1
-Architecture: iphoneos-arm
-Maintainer: smokin1337
+Name: SmartLPM
 Depends: mobilesubstrate
-Filename: ./debs/com.smokin1337.smartlpm_1.3.0-1_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging. And more....
+Maintainer: smokin1337
+Author: smokin1337
+Section: Tweaks
+Version: 1.3.0-1
+Installed-Size: 332
 Size: 145960
 MD5sum: fdfb47460a8146434c7b981844bbbc4c
-SHA1: d3d6bd0dbdba00feaf9c93de8d02c62f4b2e9090
-SHA256: 1fb632ea84ef3a86d425feaf3a9ae358e02ffc03e191b90b8a6a67b876135053
-Section: Tweaks
-Description: A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging. And more....
-Author: smokin1337
-Installed-Size: 332
-Name: SmartLPM
+Filename: ./debs/com.smokin1337.smartlpm_1.3.0-1_iphoneos-arm.deb
 
 Package: com.spark.HideBarX
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Spark
+Name: HideBarX [Public]
 Depends: mobilesubstrate
-Filename: ./debs/com.spark.hidebarx_0.0.2_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Hides the iPhone X home bar - compatible with VolumeBarX
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 56
 Size: 3164
 MD5sum: 2b4a8054dd9a6a9889fdb0297b7f5d00
-SHA1: dfbb59567fe500ad6999c030905f911abb269c1b
-SHA256: 9fc4b4f79ed1e12a3b5588a5d78fa9c134fced2db2d5dd7e8c71757f5ea68cd6
-Section: Tweaks
-Description: Hides the iPhone X home bar - compatible with VolumeBarX
-Author: Spark
-Installed-Size: 56
-Name: HideBarX [Public]
+Filename: ./debs/com.spark.hidebarx_0.0.2_iphoneos-arm.deb
 
 Package: com.spark.laetus
-Version: 0.0.1-108
-Architecture: iphoneos-arm
-Maintainer: Spark
+Name: Laetus
 Depends: mobilesubstrate
-Filename: ./debs/com.spark.laetus_0.0.1-108_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Custom keyboard colours
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.1-108
+Installed-Size: 616
 Size: 84476
 MD5sum: a1e266413a5e22c50c0880c167e8aba8
-SHA1: 480ad49233bb87dcc2033e9bc7ef0cf9973b703b
-SHA256: 493524f6f0747ed7155c15761376aad09284a63133de098d48b26e2bb3bba7ba
-Section: Tweaks
-Description: Custom keyboard colours
-Author: Spark
-Installed-Size: 616
-Name: Laetus
+Filename: ./debs/com.spark.laetus_0.0.1-108_iphoneos-arm.deb
 
 Package: com.spark.melior
-Version: 1.0.6-1
-Architecture: iphoneos-arm
-Maintainer: Spark
+Name: Melior [Public]
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.spark.melior_1.0.6-1_iphoneos-arm.deb
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Architecture: iphoneos-arm
+Description: Custom volume HUD
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=Melior
+Maintainer: Spark
+Author: Spark & Dennis Bednarz
+Section: Tweaks
+Version: 1.0.6-1
+Installed-Size: 844
 Size: 208304
 MD5sum: 0d59359a996519fc240c6ae74ddabbdf
-SHA1: 0a23654b3a8c3031a6fa5ea8cdc06204a6888a5e
-SHA256: 910ea64e37c256083df7b75837b67a0875180b23bed664cb8247ef12c480f97d
-Section: Tweaks
-Description: Custom volume HUD
-Author: Spark & Dennis Bednarz
-Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
-Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=Melior
-Installed-Size: 844
-Name: Melior [Public]
+Filename: ./debs/com.spark.melior_1.0.6-1_iphoneos-arm.deb
 
 Package: com.spark.noccbar
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Spark
+Name: NoCCBar
 Depends: mobilesubstrate
-Filename: ./debs/com.spark.noccbar_1.0.1_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Removes the annoying lockscreen control center grabber bar on iPhone X iOS 11.2+
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=NoCCBar
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 120
 Size: 2726
 MD5sum: ba006826197fe8af99f6abf14c60abe9
-SHA1: e6225676f3cdfa27f8034d468a0d602761474c10
-SHA256: 096841131adaed1a8589d66b2f9a44afd4335c30829494a3ccd1c11a3ecc8f73
-Section: Tweaks
-Description: Removes the annoying lockscreen control center grabber bar on iPhone X iOS 11.2+
-Author: Spark
-Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=NoCCBar
-Installed-Size: 120
-Name: NoCCBar
+Filename: ./debs/com.spark.noccbar_1.0.1_iphoneos-arm.deb
 
 Package: com.spark.nomoresmallapps
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Spark
+Name: NoMoreSmallApps [Public]
 Depends: mobilesubstrate, com.spark.libsparkapplist
-Filename: ./debs/com.spark.nomoresmallapps_0.0.2_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Make all apps full screen on iPhone X
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 208
 Size: 18748
 MD5sum: c354d7245e94b0ebd6d0aebd3a12792b
-SHA1: ae36c8c07d6039b04a9d5da70151680a888a7bce
-SHA256: 7a08cef710f3129b05d01b994334fe13976950044f817d8e3a8deec99a2a510a
-Section: Tweaks
-Description: Make all apps full screen on iPhone X
-Author: Spark
-Installed-Size: 208
-Name: NoMoreSmallApps [Public]
+Filename: ./debs/com.spark.nomoresmallapps_0.0.2_iphoneos-arm.deb
 
 Package: com.spark.sleepytime
-Version: 0.0.1-4
-Architecture: iphoneos-arm
-Maintainer: Spark
+Name: SleepyTime
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.spark.sleepytime_0.0.1-4_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: Displays the time until alarms in the stock iOS 'Clock' app.
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=SleepyTime
+Maintainer: Spark
+Author: Spark
+Section: Tweaks
+Version: 0.0.1-4
+Installed-Size: 336
 Size: 91684
 MD5sum: 26c5f33605e26e7c84daccae5b8c6556
-SHA1: 0d76743a4f1c2a09121b0d7b0ce22103d8c0356d
-SHA256: 6cdafd5f7e815f32dec3813ec19af5540440f5dc06523cf23f3bcd2b13338b67
-Section: Tweaks
-Description: Displays the time until alarms in the stock iOS 'Clock' app.
-Author: Spark
-Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=SleepyTime
-Installed-Size: 336
-Name: SleepyTime
+Filename: ./debs/com.spark.sleepytime_0.0.1-4_iphoneos-arm.deb
 
 Package: com.thireus.hostscleaner
+Priority: standard
+Name: Hosts Cleaner
 Version: 1.0.4
-Architecture: iphoneos-arm
-Maintainer: Thireus <repo@thireus.com>
-Depends: sed, grep, coreutils
-Filename: ./debs/com.thireus.hostscleaner_1.0.4_iphoneos-arm.deb
-Size: 1964
-MD5sum: 16340f5f9e13e3a5716a1eed6b3687f0
-SHA1: 92c1db66b04a563d5beb53fd371fb05c777877dd
-SHA256: cb784edeac109c4e5a6c3eac5d463519c46a0c52408cad49d79c037c4dc3d84c
+Installed-Size: 0
 Section: Security
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: sed, grep, coreutils
+Architecture: iphoneos-arm
+Author: Thireus <repo@thireus.com>
+Maintainer: Thireus <repo@thireus.com>
 Description: Restore your original /etc/hosts file
  Hosts Cleaner is a script that resets your /etc/hosts file to its original state (default localhost entries).
  .
@@ -335,39 +297,37 @@ Description: Restore your original /etc/hosts file
  It is advised to install this package before installing 'Untrusted Hosts Blocker' to make sure your hosts file is clean and that other ad blocker tweaks won't interfere with it. This tweak can also help people who may have a corrupted or heavy hosts file (noticable device behaviors: connection issues or slow device).
  .
  You can also install this package to clean your /etc/hosts file. But if you have ad blockers installed such as 'Untrusted Hosts Blocker', you will simply have to reinstall them to add the blocked host entries back to your /etc/hosts file.
- .
+ .
  When installed: This package creates a backup of your current /etc/hosts file in /etc/hosts.thireus.hostscleaner.bak.
  When uninstalled: This package only removes the backup file, understand that it will not restore your previous /etc/hosts. If you want to restore your previous /etc/hosts, do it manually with the backup file before uninstalling this package.
  .
  UPDATED: v1.0.4 (20/08/2016) - Original Apple hosts entries cleanup + host block count fixed
-Author: Thireus <repo@thireus.com>
 Homepage: http://repo.thireus.com
-Installed-Size: 0
-Name: Hosts Cleaner
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: standard
+Size: 1964
+MD5sum: 16340f5f9e13e3a5716a1eed6b3687f0
+Filename: ./debs/com.thireus.hostscleaner_1.0.4_iphoneos-arm.deb
 
 Package: com.thireus.untrustedhostsblocker9
+Priority: standard
+Name: iOS 9/10/11 - Untrusted Hosts Blocker
 Version: 1.4.0
-Architecture: iphoneos-arm
-Maintainer: Thireus <repo@thireus.com>
+Installed-Size: 68
+Section: Security
+Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: firmware (>= 9.0), sed, grep, coreutils, shell-cmds
 Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker
-Filename: ./debs/com.thireus.untrustedhostsblocker9_1.4.0_iphoneos-arm.deb
-Size: 45352
-MD5sum: 1b71002fd80d321cbe14cec7ec67bceb
-SHA1: 7a659bd8c1174b940e991d26a7933f7871b1a288
-SHA256: 27e2f09b9d59a4c438d2abb61c2da8cb2941901feff72a0bd8cd198e06573e4f
-Section: Security
-Description: Say goodbye to tracking, spies, intrusive ads and untrusted hosts.
+Architecture: iphoneos-arm
+Author: Thireus <repo@thireus.com>
+Maintainer: Thireus <repo@thireus.com>
+Description: Say goodbye to tracking, spies, intrusive ads and untrusted hosts.
  Blocks around 3,000 blacklisted hosts!
  .
- This tweak's main goal is to block a maximum of third-party hosts used by your applications that have been identified as collecting personal and confidential data (location, contacts, UDID, etc.) for commercial, tracking or advertising purpose.
- .
+ This tweak's main goal is to block a maximum of third-party hosts used by your applications that have been identified as collecting personal and confidential data (location, contacts, UDID, etc.) for commercial, tracking or advertising purpose.
+ .
  This package will add all blacklisted hosts to your /etc/hosts file. It will NOT overwrite your custom hosts file (if you already have custom entries in your hosts file, they will remain untouched)!
- .
+ .
  If you are unhappy with this hack you can uninstall this package. It will ONLY remove the installed entries by the tweak and leave untouched any other entries you may have added manually to the hosts file. But make sure to wait until the end of the uninstallation process. In case your hosts file is broken (should never happen), the installation or uninstallation script will repair it.
- .
+ .
  If Internet is not working on your device anymore after installing this tweak, it means your /etc/hosts file is too big for mDNSResponder. If that happens, please uninstall this tweak, then install "Hosts Cleaner" and reinstall this tweak.
  .
  Avoid combining this tweak with other hosts blocker tweaks as they may interfere with your customized /etc/hosts file.
@@ -377,27 +337,40 @@ Description: Say goodbye to tracking, spies, intrusive ads and untrusted hosts.
  Please only send me blocking requests for intrusive hosts. I will no longer consider requests for harmless advertisement hosts. Sorry.
  .
  UPDATED: v1.3.0 (30/03/2018) - Official support for iOS 11.
- UPDATED: v1.4.0 (24/07/2018) - The new install script will try to prevent installations that would lead to a /etc/hosts file size that iOS can’t handle (install will fail if the size limit is reached and will ask the user to clear the hosts file). For reference, this is a known issue that break iOS domain name resolving once the hosts file reaches a certain size.
-Author: Thireus <repo@thireus.com>
+ UPDATED: v1.4.0 (24/07/2018) - The new install script will try to prevent installations that would lead to a /etc/hosts file size that iOS canâ€™t handle (install will fail if the size limit is reached and will ask the user to clear the hosts file). For reference, this is a known issue that break iOS domain name resolving once the hosts file reaches a certain size.
 Homepage: https://repo.thireus.com
-Installed-Size: 68
-Name: iOS 9/10/11 - Untrusted Hosts Blocker
-Pre-Depends: dpkg (>= 1.14.25-8)
-Priority: standard
+Size: 45352
+MD5sum: 1b71002fd80d321cbe14cec7ec67bceb
+Filename: ./debs/com.thireus.untrustedhostsblocker9_1.4.0_iphoneos-arm.deb
 
 Package: com.tigisoftware.appdatamanager
-Version: 1.4.0-45
-Architecture: iphoneos-arm
-Maintainer: TIGI Software
+Name: Apps Manager
 Depends: zip
-Filename: ./debs/com.tigisoftware.appdatamanager_1.4.0-45_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Version: 1.4.0-45
+Installed-Size: 8852
 Size: 3628386
 MD5sum: ad8b5483c7678f5a29091f575b205d03
-SHA1: 92285afa3b58f6ea151bbfa5fa95e8e2c5694a63
-SHA256: 5c9f7ba06e74a70c01f2bb02ca3e3f95734111a21765c1eae9667e02853d0332
-Section: Utilities
-Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
-Author: TIGI Software
-Installed-Size: 8852
-Name: Apps Manager
+Filename: ./debs/com.tigisoftware.appdatamanager_1.4.0-45_iphoneos-arm.deb
+
+Package: com.ryleyangus.libertylite
+Name: Liberty Lite
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty
+Architecture: iphoneos-arm
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Section: Tweaks
+Depiction: https://qaws95.github.io/depictions/?p=libertylite
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Version: 0.2.10
+Installed-Size: 476
+Size: 46610
+MD5sum: de8005d35c2204becf725c327f68e1e5
+Filename: ./debs/libertylite_0.2.10.deb
 
